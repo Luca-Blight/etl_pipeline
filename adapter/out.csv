@@ -1,0 +1,443 @@
+dbn,school_name,primary_address_line_1,city,postcode,latitude,longitude,gradespan,subway,pct_stu_safe,graduation_rate,attendance_rate,college_career_rate
+01M292,Orchard Collegiate Academy,220 Henry Street,Manhattan,10002,40.713684,-73.986336,9 to 12,"F to East Broadway; J, M, Z to Delancey St-Essex St",0.95999998,0.88999999,0.92000002,0.72000003
+01M448,University Neighborhood High School,200 Monroe Street,Manhattan,10002,40.712399,-73.984497,9 to 12,"F to East Broadway; J, M, Z to Delancey St-Essex St",0.94999999,0.94,0.91000003,0.75999999
+01M450,East Side Community School,420 East 12th Street,Manhattan,10009,40.729589,-73.982555,6 to 12,6 to Astor Place; L to 1st Ave,0.93000001,0.89999998,0.94,0.81999999
+01M458,Forsyth Satellite Academy,198 Forsyth Street,Manhattan,10002,40.72252,-73.990728,9 to 12,,0.94999999,,0.54000002,
+01M539,"New Explorations into Science, Technology and Math High School (NEST+m)",111 Columbia Street,Manhattan,10002,40.718895,-73.979308,K to 12,"F, J, M, Z to Delancey St-Essex St",0.89999998,1,0.94999999,0.92000002
+01M696,Bard High School Early College,525 East Houston Street,Manhattan,10002,40.719029,-73.975891,9 to 12,N/A,0.94999999,0.99000001,0.94999999,0.98000002
+02M047,47 The American Sign Language and English Secondary School,223 East 23rd Street,Manhattan,10010,40.738548,-73.982455,9 to 12,"6 to 23rd St; L to 3rd Ave; R, W to 23rd St",0.94,0.93000001,0.89999998,0.74000001
+02M135,"Urban Assembly School for Emergency Management, The",411 Pearl Street,Manhattan,10038,40.711442,-74.000851,9 to 12,"2, 3, 4, 5, A, C, J, Z to Fulton St; N, Q to Canal St; R, W to City Hall",0.85000002,0.89999998,0.86000001,0.63999999
+02M139,Stephen T. Mather Building Arts & Craftsmanship High School,439 West 49th Street,Manhattan,10019,40.76337,-73.9906,9 to 12,"1, C, E to 50th St; 2, 3, 7, A, S to Times Square-42nd St; B, D to 7th Ave; N, R, W to 49th St",0.88,0.88,0.85000002,0.55000001
+02M260,"Clinton School, The",10 East 15th Street,Manhattan,10003,40.736518,-73.992725,6 to 12,"1, 2, 3, F, M to 14th St; 4, 5, 6, L, N, Q, R, W to Union Square; A, C, E, B, D to West 4th St",0.94999999,0.89999998,0.94999999,
+02M280,Manhattan Early College School for Advertising,411 Pearl Street,Manhattan,10038,40.711442,-74.000851,9 to 14,"2, 3, 4, 5, A, C, J, Z to Fulton St; N, Q to Canal St; R, W to City Hall",0.88,0.95999998,0.88999999,0.85000002
+02M282,Urban Assembly Maker Academy,411 Pearl Street,Manhattan,10038,40.711442,-74.000851,9 to 12,"2, 3, 4, 5, A, C, J, Z to Fulton St; N, Q to Canal St; R, W to City Hall",0.93000001,0.89999998,0.88999999,0.79000002
+02M288,Food and Finance High School,525 West 50th Street,Manhattan,10019,40.76525,-73.993105,9 to 12,"C, E to 50th St",0.61000001,0.85000002,0.88,0.74000001
+02M294,Essex Street Academy,350 Grand Street,Manhattan,10002,40.717349,-73.989596,9 to 12,"B, D to Grand St; F, J, M, Z to Delancey St-Essex St",0.93000001,0.89999998,0.88999999,0.77999997
+02M296,High School of Hospitality Management,525 West 50th Street,Manhattan,10019,40.76525,-73.993105,9 to 12,"C, E to 50th St",0.83999997,0.75999999,0.83999997,0.63
+02M298,Pace High School,100 Hester Street,Manhattan,10002,40.716553,-73.993092,9 to 12,"6, N, Q, R, W to Canal St; B, D to Grand St; F to East Broadway; J, Z to Bowery; M to Delancey St-Essex St",0.91000003,0.85000002,0.87,0.55000001
+02M300,"Urban Assembly School of Design and Construction, The",525 West 50th Street,Manhattan,10019,40.76525,-73.993105,9 to 12,"C, E to 50th St",0.87,0.73000002,0.81,0.62
+02M303,"Facing History School, The",525 West 50th Street,Manhattan,10019,40.76525,-73.993105,9 to 12,"C, E to 50th St",0.88,0.82999998,0.80000001,0.55000001
+02M305,"Urban Assembly Academy of Government and Law, The",350 Grand Street,Manhattan,10002,40.717349,-73.989596,9 to 12,"B, D to Grand St; F, J, M, Z to Delancey St-Essex St",0.81999999,0.88999999,0.85000002,0.50999999
+02M308,Lower Manhattan Arts Academy,350 Grand Street,Manhattan,10002,40.717349,-73.989596,9 to 12,"B, D to Grand St; F, J, M, Z to Delancey St-Essex St",0.83999997,0.79000002,0.87,0.61000001
+02M313,"James Baldwin School, The",351 West 18 Street,Manhattan,10011,40.742867,-74.002136,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.94999999,,0.67000002,
+02M316,"Urban Assembly School of Business for Young Women, The",26 Broadway,Manhattan,10004,40.70568,-74.013302,9 to 12,"1 to South Ferry; 2, 3 to Wall St; 4, 5 to Bowling Green; A, C to Fulton St; J, Z to Broad St; R, W to Rector St",0.89999998,0.76999998,0.81,0.60000002
+02M374,Gramercy Arts High School,40 Irving Place,Manhattan,10003,40.735494,-73.987659,9 to 12,"4, 5, 6, L, N, Q, R, W to 14th St-Union Square",0.80000001,0.91000003,0.83999997,0.58999997
+02M376,NYC iSchool,131 Avenue Of The Americas,Manhattan,10013,40.7244,-74.004625,9 to 12,"1, 6, N, Q, J, Z to Canal St; B, D, F, M to Broadway-Lafayette St; C, E to Spring St; R, W to Prince St",0.94999999,1,0.94999999,0.88999999
+02M392,Manhattan Business Academy,351 West 18th Street,Manhattan,10011,40.742867,-74.002136,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.85000002,0.89999998,0.85000002,0.68000001
+02M393,Business of Sports School,439 West 49th Street,Manhattan,10019,40.76337,-73.9906,9 to 12,"1, C, E to 50th St; 2, 3, 7, A, S to Times Square-42nd St; B, D to 7th Ave; N, R, W to 49th St",0.89999998,0.87,0.85000002,0.57999998
+02M394,Emma Lazarus High School for English Language Scholars,100 Hester Street,Manhattan,10002,40.716553,-73.993092,9 to 12,"6, N, Q, R, W to Canal St; B, D to Grand St; F to East Broadway; J, Z to Bowery; M to Delancey St-Essex St",0.97000003,,0.92000002,
+02M399,"High School for Language and Diplomacy, The",40 Irving Place,Manhattan,10003,40.735494,-73.987659,9 to 12,"4, 5, 6, L, N, Q, R, W to 14th St-Union Square",0.77999997,0.82999998,0.82999998,0.67000002
+02M400,High School for Environmental Studies,444 West 56th Street,Manhattan,10019,40.767791,-73.987531,9 to 12,"1, A, C, B, D to 59th St-Columbus Circle; E to 50th St; N, Q, R, W to 57th St",0.88,0.79000002,0.86000001,0.75999999
+02M407,Institute for Collaborative Education (ICE),345 East 15th Street,Manhattan,10003,40.732447,-73.983031,6 to 12,"4, 5, 6, N, Q, R, W to 14th St-Union Square; L to 1st Ave",0.87,0.95999998,0.92000002,0.87
+02M408,Professional Performing Arts High School (PPAS),328 West 48th Street,Manhattan,10036,40.761448,-73.988019,6 to 12,"1, C, E to 50th St; 2, 3, 7, A, S to Times Square-42nd St; B, D to 7th Ave; N, R, W to 49th St",0.93000001,0.98000002,0.93000001,0.70999998
+02M411,Baruch College Campus High School,55 East 25th Street,Manhattan,10010,40.74193,-73.986521,9 to 12,"4, 5, L, N, Q, R, W to 14th St-Union Square; 6 to 28th St",0.92000002,1,0.95999998,0.98000002
+02M412,N.Y.C. Lab School for Collaborative Studies,333 West 17th Street,Manhattan,10011,40.742129,-74.002198,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.91000003,0.97000003,0.94,0.88999999
+02M413,School of the Future High School,127 East 22nd Street,Manhattan,10010,40.738952,-73.985479,6 to 12,"4, 5, L, N, Q to 14th St-Union Square; 6 to 23rd St; R, W to 23 St",0.86000001,0.94999999,0.94999999,0.89999998
+02M414,N.Y.C. Museum School,333 West 17th Street,Manhattan,10011,40.742129,-74.002198,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.88,0.98000002,0.93000001,0.88
+02M416,Eleanor Roosevelt High School,411 East 76th Street,Manhattan,10021,40.770187,-73.953608,9 to 12,6 to 77th St; Q to 72nd St,0.99000001,1,0.97000003,0.83999997
+02M418,Millennium High School,75 Broad Street,Manhattan,10004,40.704541,-74.011552,9 to 12,"1 to South Ferry; 2, 3 to Wall St; 4, 5 to Bowling Green; A, C to Fulton St; J, Z to Broad St; R, W to Rector St",0.93000001,1,0.97000003,0.88
+02M419,Landmark High School,351 West 18th Street,Manhattan,10011,40.742867,-74.002136,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.88,0.76999998,0.80000001,0.56999999
+02M420,High School for Health Professions and Human Services,345 East 15th Street,Manhattan,10003,40.732447,-73.983031,9 to 12,"4, 5, 6, N, Q, R, W to 14th St-Union Square; L to 1st Ave",0.92000002,0.94999999,0.92000002,0.77999997
+02M422,Quest to Learn,351 West 18th Street,Manhattan,10011,40.742867,-74.002136,6 to 12,"1 to 18th St; A, C, E, L to 14th St",0.79000002,0.81,0.86000001,0.58999997
+02M425,Leadership and Public Service High School,90 Trinity Place,Manhattan,10006,40.70873,-74.012332,9 to 12,"1 to Rector St; 2, 3, A, C, J, Z to Fulton St; 4, 5 to Wall St; 6 to Brooklyn Bridge-City Hall; E to World Trade Center; R, W to Cortlandt St",0.94,0.88999999,0.82999998,0.55000001
+02M427,Manhattan Academy for Arts & Language,111 East 33rd Street,Manhattan,10016,40.746176,-73.981241,9 to 12,"4, 5, 7, S to Grand Central-42nd St; 6 to 33rd St; B, D, F, M, N, Q, R, W to 34th St",0.81999999,0.64999998,0.87,0.61000001
+02M432,Murray Hill Academy,111 East 33rd Street,Manhattan,10016,40.746176,-73.981241,9 to 12,"4, 5, 7, S to Grand Central-42nd St; 6 to 33rd St; B, D, F, M, N, Q, R, W to 34th St",0.93000001,0.69,0.80000001,0.47999999
+02M437,Hudson High School of Learning Technologies,351 West 18th Street,Manhattan,10011,40.742867,-74.002136,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.81999999,0.81,0.81999999,0.51999998
+02M438,International High School at Union Square,40 Irving Place,Manhattan,10003,40.735494,-73.987659,9 to 12,"4, 5, 6, L, N, Q, R, W to 14th St-Union Square",0.88999999,0.69,0.88999999,0.55000001
+02M439,Manhattan Village Academy,43 West 22nd Street,Manhattan,10010,40.741497,-73.991512,9 to 12,"1 to 23rd St; 2, 3, L to 14th St; 4, 5, N, Q to 14th St-Union Square; 6 to 23rd St; F, M to 23rd St; R, W to 23rd St",0.92000002,0.99000001,0.98000002,0.92000002
+02M449,Vanguard High School,317 East 67th Street,Manhattan,10065,40.765359,-73.960059,9 to 12,"4, 5, N, R, W to 59th St-Lexington Ave; 6 to 68th St-Hunter College; Q to 72nd St; F to Lexington Ave",0.91000003,0.77999997,0.87,0.68000001
+02M459,Manhattan International High School,317 East 67th Street,Manhattan,10065,40.765359,-73.960059,9 to 12,"4, 5, N, R, W to 59th St-Lexington Ave; 6 to 68th St-Hunter College; Q to 72nd St; F to Lexington Ave",0.91000003,0.62,0.88,0.55000001
+02M475,Stuyvesant High School,345 Chambers Street,Manhattan,10282,40.7177,-74.01399,9 to 12,"1, 2, 3, A, C to Chambers St; E to World Trade Center; R, W to City Hall",0.94999999,0.99000001,0.97000003,0.97000003
+02M489,High School of Economics and Finance,100 Trinity Place,Manhattan,10006,40.709196,-74.012022,9 to 12,"1 to Rector St; 2, 3, A, C, J, Z to Fulton St; 4, 5 to Wall St; 6 to Brooklyn Bridge-City Hall; E to World Trade Center; R, W to Cortlandt St",0.85000002,0.89999998,0.89999998,0.81
+02M500,Unity Center for Urban Technologies,111 East 33rd Street,Manhattan,10016,40.746176,-73.981241,9 to 12,"4, 5, 7, S to Grand Central-42nd St; 6 to 33rd St; B, D, F, M, N, Q, R, W to 34th St",1,0.89999998,0.80000001,0.57999998
+02M507,Urban Assembly Gateway School for Technology,439 West 49th Street,Manhattan,10019,40.76337,-73.9906,9 to 12,"1, C, E to 50th St; 2, 3, 7, A, S to Times Square-42nd St; B, D to 7th Ave; N, R, W to 49th St",0.89999998,0.95999998,0.92000002,0.80000001
+02M519,Talent Unlimited High School,317 East 67th Street,Manhattan,10065,40.765359,-73.960059,9 to 12,"4, 5, N, R, W to 59th St-Lexington Ave; 6 to 68th St-Hunter College; Q to 72nd St; F to Lexington Ave",0.92000002,0.95999998,0.91000003,0.80000001
+02M520,Murry Bergtraum High School for Business Careers,411 Pearl Street,Manhattan,10038,40.711442,-74.000851,9 to 12,"1, E to Park Place; 2, 3, A, C to Fulton St; 4, 5, 6, J, Z to Chambers St; N, Q to Canal St; R, W to City Hall",0.89999998,0.73000002,0.77999997,0.50999999
+02M529,Jacqueline Kennedy Onassis High School,120 West 46th Street,Manhattan,10036,40.757729,-73.983078,9 to 12,"1, 2, 3, 7, A, C, E, Q, S to Times Square-42nd St; 4, 5, 6 to Grand Central; B, D, F, M to 47-50th Sts Rockefeller Center; N, R, W to 49th St",0.77999997,0.63999999,0.79000002,0.49000001
+02M531,Repertory Company High School for Theatre Arts,123 West 43rd Street,Manhattan,10036,40.755843,-73.984382,9 to 12,"1, 2, 3, 7, A, C, E, S, N, Q, R, W to Times Square-42nd St; 4, 5, 6 to Grand Central; B, D, F, M to Bryant Park-42nd St",,1,0.91000003,0.86000001
+02M533,Union Square Academy for Health Sciences,40 Irving Place,Manhattan,10003,40.735494,-73.987659,9 to 12,"4, 5, 6, L, N, Q, R, W to 14th St-Union Square",0.83999997,0.83999997,0.88,0.77999997
+02M534,Harvest Collegiate High School,34 West 14th Street,Manhattan,10011,40.736518,-73.994858,9 to 12,"1, 2, 3, L, F, M to 14th St; 4, 5, 6, N, Q, R, W to 14th St-Union Square; A, C, E, B, D to West 4th St",0.87,0.86000001,0.86000001,0.74000001
+02M542,Manhattan Bridges High School,525 West 50th Street,Manhattan,10019,40.76525,-73.993105,9 to 12,"C, E to 50th St",0.89999998,0.94999999,0.91000003,0.81999999
+02M543,New Design High School,350 Grand Street,Manhattan,10002,40.717349,-73.989596,9 to 12,"B, D to Grand St; F, J, M, Z to Delancey St-Essex St",0.88999999,0.76999998,0.82999998,0.72000003
+02M544,Independence High School,850 10th Avenue,Manhattan,10019,40.768343,-73.989108,9 to 12,"1, A, C, B, D to 59th St-Columbus Circle; E to 50th St; N, Q, R, W to 57th St",0.91000003,,0.52999997,
+02M545,High School for Dual Language and Asian Studies,350 Grand Street,Manhattan,10002,40.717349,-73.989596,9 to 12,"B, D to Grand St; F, J, M, Z to Delancey St-Essex St",0.94999999,1,0.99000001,0.92000002
+02M546,Academy for Software Engineering (AFSE),40 Irving Place,Manhattan,10003,40.735494,-73.987659,9 to 12,"4, 5, 6, L, N, Q, R, W to 14th St-Union Square",0.82999998,0.93000001,0.88999999,0.76999998
+02M550,Liberty High School Academy for Newcomers,250 West 18th St,Manhattan,10011,40.741657,-73.999307,9 to 12,A/C/E to 14th Street; 1 Train to 18th Street; F Local to 18th Street and L Train,0.88999999,,0.85000002,
+02M551,Urban Assembly New York Harbor School,550 Short Avenue,New York,10004,40.691214,-74.02024,9 to 12,"R, W, 1, 4, 5",0.88999999,0.83999997,0.88999999,0.61000001
+02M560,City-As-School,16 Clarkson Street,Manhattan,10014,40.729412,-74.006148,,"1 to Houston St; A, B, D, F, M to West 4th St; C, E to Spring St",1,,0.43000001,
+02M580,Richard R. Green High School of Teaching,7 Beaver Street,Manhattan,10004,40.705024,-74.012977,9 to 12,"1 to South Ferry; 2, 3 to Wall St; 4, 5 to Bowling Green; A, C to Fulton St; J, Z to Broad St; R, W to Rector St",0.88,0.83999997,0.91000003,0.64999998
+02M586,Harvey Milk High School,2 Astor Place,Manhattan,10003,40.730038,-73.992632,9 to 12,6 to Astor Place; R to 8th Street,0.95999998,,0.69999999,
+02M600,"High School of Fashion Industries, The",225 West 24th Street,Manhattan,10011,40.745156,-73.996074,9 to 12,"1 to 28th St; 2, 3 to 34th St; A, L to 14th St; C, E to 23rd St",0.88,0.88999999,0.89999998,0.79000002
+02M605,Humanities Preparatory Academy,351 West 18th Street,Manhattan,10011,40.742867,-74.002136,9 to 12,"1 to 18th St; A, C, E, L to 14th St",0.91000003,0.94,0.83999997,0.82999998
+02M615,Chelsea Career and Technical Education High School,131 Avenue Of The Americas,Manhattan,10013,40.7244,-74.004625,9 to 12,"1 to Canal St; 6, N, Q, J, Z to Canal St; B, D, F, M to Broadway-Lafayette St; C, E to Spring St; R, W to Prince St",0.75,0.83999997,0.85000002,0.66000003
+02M630,Art and Design High School,231-249 East 56th Street,Manhattan,10019,40.75924,-73.967203,9 to 12,"4, 5, N, R, W to 59th St-Lexington Ave; 6 to 51st St; E, M to Lexington Ave-53rd St",0.85000002,0.89999998,0.88999999,0.75
+02M655,Life Sciences Secondary School,320 East 96th Street,Manhattan,10128,40.783625,-73.945637,9 to 12,"6, Q to 96th St",0.88999999,0.79000002,0.77999997,0.56999999
+03M291,West End Secondary School,227-243 West 61st Street,Manhattan,10023,40.772007,-73.987479,6 to 12,"1 to 66th St-Lincoln Center; A, C, B, D to 59th St-Columbus Circle",0.94,,0.95999998,
+03M299,"Maxine Greene High School for Imaginative Inquiry, The",122 Amsterdam Avenue,Manhattan,10023,40.774351,-73.984753,9 to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.72000003,0.76999998,0.81,0.44
+03M307,"Urban Assembly School for Media Studies, The",122 Amsterdam Avenue,Manhattan,10023,40.774351,-73.984753,9 to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.93000001,0.81999999,0.85000002,0.51999998
+03M402,"Urban Assembly School for Green Careers, The",145 West 84th Street,Manhattan,10024,40.785803,-73.974614,9 to 12,"1 to 86th St; B, C to 81st St-Museum of Natural History",0.85000002,0.76999998,0.81999999,0.63
+03M403,"Global Learning Collaborative, The",145 West 84th Street,Manhattan,10024,40.785803,-73.974614,9 to 12,"1 to 86th St; B, C to 81st St-Museum of Natural History",0.82999998,0.79000002,0.86000001,0.56999999
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,215 West 114th Street,Manhattan,10026,40.802207,-73.954142,6 to 12,"2, 3 to 110th St-Central Park North; B, C to 116th St",0.87,0.88999999,0.87,0.49000001
+03M417,Frank McCourt High School,145 West 84th Street,Manhattan,10024,40.785803,-73.974614,9 to 12,"1 to 86th St; B, C to 81st St-Museum of Natural History",0.82999998,0.97000003,0.91000003,0.88999999
+03M479,Beacon High School,522 West 44th Street,New York,10036,40.761452,-73.995802,9 to 12,"1, 2, 3, 7, A, C, E, N, Q, R, W, S to Times Square-42nd St",0.95999998,0.98000002,0.97000003,0.82999998
+03M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,100 Amsterdam Avenue,Manhattan,10023,40.773629,-73.985273,9 to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.93000001,0.99000001,0.94999999,0.94
+03M492,"High School for Law, Advocacy and Community Justice",122 Amsterdam Avenue,Manhattan,10023,40.774351,-73.984753,9 to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.80000001,0.75999999,0.86000001,0.64999998
+03M494,High School of Arts and Technology,122 Amsterdam Avenue,Manhattan,10023,40.774351,-73.984753,9 to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.70999998,0.68000001,0.81,0.38
+03M541,Manhattan / Hunter Science High School,122 Amsterdam Avenue,Manhattan,10023,40.774351,-73.984753,9 to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.91000003,0.99000001,0.97000003,0.94999999
+03M859,Special Music School,122 Amsterdam Avenue,Manhattan,10023,40.774351,-73.984753,K to 12,"1 to 66th St-Lincoln Center; 2, 3 to 72nd St; A, C, B, D to 59th St-Columbus Circle",0.93000001,0.94999999,0.93000001,0.87
+03M860,Frederick Douglass Academy II Secondary School,215 West 114th Street,Manhattan,10026,40.802207,-73.954142,6 to 12,"2, 3 to 110th St-Central Park North; B, C to 116th St",0.81,0.77999997,0.81999999,0.74000001
+04M372,Esperanza Preparatory Academy,240 East 109th Street,Manhattan,10029,40.79307,-73.942303,6 to 12,6 to 110th St,0.86000001,0.75999999,0.88,0.46000001
+04M435,Manhattan Center for Science and Mathematics,260 Pleasant Avenue,Manhattan,10029,40.793856,-73.934028,9 to 12,N/A,0.97000003,0.97000003,0.94,0.88999999
+04M495,Park East High School,230 East 105th Street,Manhattan,10029,40.790543,-73.944356,9 to 12,6 to 103rd St; Q to 96th St,0.92000002,0.95999998,0.94,0.82999998
+04M555,Central Park East High School,1573 Madison Avenue,Manhattan,10029,40.793763,-73.949381,9 to 12,"2, 3 to 110th St-Central Park North; 6 to 103rd St",0.97000003,1,0.97000003,0.92000002
+04M610,Young Women's Leadership School (TYWLS),105 East 106th Street,New York,10029,40.792741,-73.947428,6 to 12,"2, 3 to 110th St-Central Park North; 6 to 103rd St",0.89999998,0.99000001,0.94,0.99000001
+04M680,"Heritage School, The",1680 Lexington Avenue,Manhattan,10029,40.791881,-73.946558,9 to 12,6 to 103rd St,0.86000001,0.89999998,0.88999999,0.57999998
+05M148,Eagle Academy for Young Men of Harlem,6 Edgecombe Avenue,Manhattan,10030,40.817372,-73.947712,6 to 12,"1 to 137th St-City College; B, C to 135th St",0.77999997,,0.82999998,
+05M157,"Urban Assembly School for Global Commerce, The",2005 Madison Avenue,Manhattan,10035,40.807383,-73.939433,9 to 12,"4, 5, 6 to 125th St",0.76999998,0.74000001,0.76999998,0.44
+05M304,Mott Hall High School,6 Edgecombe Avenue,Manhattan,10030,40.817372,-73.947712,9 to 12,"1 to 137th St-City College; B, C to 135th St",0.69,0.63999999,0.85000002,0.49000001
+05M362,Columbia Secondary School,425 West 123rd Street,Manhattan,10027,40.810431,-73.955809,6 to 12,"1 to 116th St-Columbia University; A, C, B, D to 125th St",0.91000003,0.95999998,0.92000002,0.95999998
+05M369,Urban Assembly School for the Performing Arts,509 West 129th Street,Manhattan,10027,40.815256,-73.955325,9 to 12,"1 to 125th St; B, C to 135th St",0.91000003,0.73000002,0.82999998,0.50999999
+05M499,Frederick Douglass Academy,2581 7th Avenue,Manhattan,10039,40.824319,-73.93712,6 to 12,"3 to Harlem-148th St; B, D to 155th St",0.74000001,0.81999999,0.88999999,0.66000003
+05M670,Thurgood Marshall Academy for Learning and Social Change,200-214 West 135th Street,Manhattan,10030,40.815449,-73.944061,6 to 12,"2, 3 to 135th St",0.85000002,0.83999997,0.91000003,0.67000002
+05M692,"High School for Math, Science and Engineering at City College (HSMSE)",240 Convent Avenue,Manhattan,10031,40.82074,-73.949097,9 to 12,"1 to 137th St-City College; B, C to 135th St",0.97000003,0.99000001,0.94999999,0.87
+06M211,Inwood Early College for Health and Information Technologies,650 Academy Street,Manhattan,10034,40.866053,-73.924835,9 to 14,"1, A to Dyckman St",0.89999998,0.70999998,0.81999999,0.72000003
+06M293,City College Academy of the Arts,4600 Broadway,Manhattan,10040,40.86079,-73.930672,6 to 12,1 to Dyckman St; A to 190th St,0.88,0.94999999,0.94,0.87
+06M346,Community Health Academy of the Heights,504 West 158th Street,Manhattan,10032,40.833687,-73.942072,6 to 12,1 to 157th St; C to 155th St,0.91000003,0.83999997,0.81999999,0.63999999
+06M348,Washington Heights Expeditionary Learning School (WHEELS),511 West 182nd Street,Manhattan,10033,40.848908,-73.930948,PK to 12,1 to 181st St; A to 175th St,0.89999998,0.89999998,0.88999999,0.63999999
+06M423,High School for Excellence and Innovation,650 Academy Street,Manhattan,10034,40.866053,-73.924835,9 to 12,"1, A to Dyckman St",0.98000002,,0.75999999,
+06M462,"College Academy, The",549 Audubon Avenue,Manhattan,10040,40.855855,-73.92712,9 to 12,1 to 191st St; A to 190th St,0.80000001,0.73000002,0.81999999,0.44999999
+06M463,High School for Media and Communications,549 Audubon Avenue,Manhattan,10040,40.855855,-73.92712,9 to 12,1 to 191st St; A to 190th St,0.81,0.69,0.89999998,0.41
+06M467,High School for Law and Public Service,549 Audubon Avenue,Manhattan,10040,40.855855,-73.92712,9 to 12,1 to 191st St; A to 190th St,0.82999998,0.55000001,0.80000001,0.46000001
+06M468,High School for Health Careers and Sciences,549 Audubon Avenue,Manhattan,10040,40.855855,-73.92712,9 to 12,1 to 191st St; A to 190th St,0.79000002,0.77999997,0.88999999,0.56999999
+06M540,A. Philip Randolph Campus High School,443 West 135th Street,Manhattan,10031,40.818188,-73.950356,9 to 12,"1 to 137th St-City College; B, C to 135th St",0.81999999,0.83999997,0.86000001,0.58999997
+06M552,Gregorio Luperon High School for Science and Mathematics,501 West 165th Street,Manhattan,10032,40.838167,-73.938642,9 to 12,"1, A to 168th St; C to 163rd St-Amsterdam Ave",0.97000003,0.87,0.92000002,0.68000001
+07X221,South Bronx Preparatory: A College Board School,360 East 145th Street,Bronx,10454,40.813983,-73.920782,6 to 12,"2, 5 to 3rd Ave-149th St; 4 to 138th St; 6 to 3rd Ave-138th St",0.97000003,0.94,0.92000002,0.69999999
+07X223,"Laboratory School of Finance and Technology, The",360 East 145th Street,Bronx,10454,40.813983,-73.920782,6 to 12,"2, 5 to 3rd Ave-149th St; 4 to 138th St; 6 to 3rd Ave-138th St",0.88,0.88,0.89999998,0.76999998
+07X259,"H.E.R.O. High (Health, Education, and Research Occupations High School)",455 Southern Boulevard,Bronx,10455,40.810803,-73.907015,9 to 14,"2, 5 to Jackson Ave; 6 to East 143rd St-St Mary's St",0.80000001,0.75,0.85000002,0.66000003
+07X334,International Community High School,345 Brook Avenue,Bronx,10454,40.81004,-73.917792,9 to 12,"2, 5 to 3rd Ave-149th St; 6 to Brook Ave",0.88,0.85000002,0.88999999,0.50999999
+07X427,Community School for Social Justice,350 Gerard Avenue,Bronx,10451,40.815938,-73.930386,9 to 12,"2 to 149th St-Grand Concourse; 3 to 145th St; 4, 5 to 138th St-Grand Concourse; 6 to 3rd Ave-138th St",0.97000003,0.72000003,0.81,0.49000001
+07X473,Mott Haven Village Preparatory High School,701 St. Anns Avenue,Bronx,10455,40.81825,-73.91103,9 to 12,"2, 5 to Jackson Ave",0.87,0.50999999,0.76999998,0.30000001
+07X495,University Heights Secondary School,701 St. Anns Avenue,Bronx,10455,40.81825,-73.91103,9 to 12,"2, 5 to Jackson Ave",0.94999999,0.99000001,0.94,0.94
+07X500,Hostos-Lincoln Academy of Science,600 Saint Ann's Avenue,Bronx,10455,40.815498,-73.91224,6 to 12,"2, 5 to Jackson Ave; 6 to East 149th St",0.85000002,0.88,0.92000002,0.73000002
+07X522,Bronx Design and Construction Academy,333 East 151st Street,Bronx,10451,40.818232,-73.919867,9 to 12,"2, 5 to 3rd Ave-149th St; 4 to 149th St-Grand Concourse",0.73000002,0.67000002,0.81,0.40000001
+07X527,Bronx Leadership Academy II High School,730 Concourse Village West,Bronx,10451,40.82231,-73.923829,9 to 12,"2, 4, 5 to 149th St-Grand Concourse; B, D to Yankee Stadium-161st St",0.93000001,0.77999997,0.85000002,0.62
+07X548,Careers in Sports High School,730 Concourse Village West,Bronx,10451,40.82231,-73.923829,9 to 12,"2, 4, 5 to 149th St-Grand Concourse; B, D to Yankee Stadium-161st St",0.88999999,0.61000001,0.81999999,0.41
+07X551,"Urban Assembly Bronx Academy of Letters, The",339 Morris Avenue,Bronx,10451,40.813641,-73.925313,6 to 12,"2 to 149th St-Grand Concourse; 4, 5 to 138th St-Grand Concourse; 6 to 3rd Ave-138th St",0.81,0.88,0.81,0.66000003
+07X600,Alfred E. Smith Career and Technical Education High School,333 East 151st Street,Bronx,10451,40.818232,-73.919867,9 to 12,"2, 5 to 3rd Ave-149th St; 4 to 149th St-Grand Concourse",0.75,0.88,0.86000001,0.38999999
+07X625,Walkabout Bronx High School,730 Concourse Village West,Bronx,10451,40.82231,-73.923829,9 to 12,"2, 4, 5 to 149th St-Grand Concourse; B, D to Yankee Stadium-161st St",,,,
+07X670,Health Opportunities High School,350 Gerard Avenue,Bronx,10451,40.815938,-73.930386,9 to 12,"2 to 149th St-Grand Concourse; 3 to 145th St; 4, 5 to 138th St-Grand Concourse; 6 to 3rd Ave-138th St",0.79000002,0.60000002,0.81999999,0.47
+08X269,Bronx Studio School for Writers and Artists,928 Simpson Street,Bronx,10459,40.820579,-73.893128,6 to 12,"2, 5 to Simpson Street; 6 to Hunts Point Ave",0.81999999,0.73000002,0.85000002,0.68000001
+08X282,Women's Academy of Excellence,456 White Plains Road,Bronx,10473,40.814833,-73.85658,9 to 12,6 to Parkchester,0.69,0.66000003,0.79000002,0.55000001
+08X293,Renaissance High School for Musical Theater and the Arts,3000 East Tremont Avenue,Bronx,10461,40.840702,-73.838545,9 to 12,6 to Westchester Square-East Tremont Ave,0.88999999,0.83999997,0.82999998,0.47
+08X312,Millennium Art Academy,1980 Lafayette Avenue,Bronx,10473,40.82229,-73.856167,9 to 12,N/A,0.85000002,0.75,0.83999997,0.49000001
+08X320,Pelham Lab High School,3000 East Tremont Avenue,Bronx,10461,40.840702,-73.838545,9 to 12,6 to Westchester Square-East Tremont Ave,0.72000003,0.69,0.82999998,0.5
+08X348,Schuylerville Preparatory High School,3000 East Tremont Avenue,Bronx,10461,40.840702,-73.838545,9 to 12,6 to Westchester Square-East Tremont Ave,0.74000001,0.68000001,0.82999998,0.55000001
+08X349,Bronx River High School,3000 East Tremont Avenue,Bronx,10461,40.840702,-73.838545,9 to 12,6 to Westchester Square-East Tremont Ave,0.75999999,0.80000001,0.81999999,0.57999998
+08X367,"Archimedes Academy for Math, Science and Technology Applications",456 White Plains Road,Bronx,10473,40.814833,-73.85658,6 to 12,N/A,0.72000003,0.64999998,0.85000002,0.38
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,1980 Lafayette Avenue,Bronx,10473,40.82229,-73.856167,6 to 12,N/A,0.69,0.67000002,0.82999998,0.31
+08X405,Herbert H. Lehman High School,3000 East Tremont Avenue,Bronx,10461,40.840702,-73.838545,9 to 12,6 to Westchester Square-East Tremont Ave,0.79000002,0.68000001,0.85000002,0.38
+08X432,Bronx Bridges High School,1980 Lafayette Avenue,Bronx,10473,40.82229,-73.856167,9 to 12,N/A,0.88,0.75999999,0.85000002,0.38999999
+08X452,Gotham Collaborative High School,1980 Lafayette Avenue,Bronx,10473,40.82229,-73.856167,9 to 12,N/A,0.81999999,0.57999998,0.80000001,0.31999999
+08X530,Longwood Preparatory Academy,965 Longwood Avenue,Bronx,10459,40.817512,-73.898212,9 to 12,"2, 5 to Prospect Ave; 6 to Longwood Ave",0.88,0.69999999,0.82999998,0.40000001
+08X537,Bronx Arena High School,1440 Story Avenue,Bronx,10473,40.821193,-73.881124,9 to 12,6 to Elder Ave,0.98000002,,0.52999997,
+08X558,Westchester Square Academy,3000 East Tremont Avenue,Bronx,10461,40.840702,-73.838545,9 to 12,6 to Westchester Square-East Tremont Ave,0.76999998,0.75,0.81999999,0.61000001
+08X559,School for Tourism and Hospitality,900 Tinton Avenue,Bronx,10456,40.821675,-73.903546,9 to 12,"2, 5 to Prospect Ave",0.67000002,0.38999999,0.69999999,0.33000001
+08X561,Bronx Compass High School,1980 Lafayette Avenue,Bronx,10473,40.82229,-73.856167,9 to 12,N/A,0.79000002,0.80000001,0.83999997,0.41999999
+09X227,Bronx Collegiate Academy,240 East 172nd Street,Bronx,10457,40.840422,-73.91091,9 to 12,"4 to Mt Eden Ave; B, D to 170th St",0.89999998,0.83999997,0.85000002,0.56999999
+09X231,Eagle Academy for Young Men,4143 Third Avenue,Bronx,10457,40.844958,-73.89705,6 to 12,N/A,0.70999998,0.70999998,0.89999998,0.49000001
+09X241,"Urban Assembly School for Applied Math and Science, The",1595 Bathgate Avenue,Bronx,10457,40.839244,-73.901316,6 to 12,N/A,0.86000001,0.70999998,0.85000002,0.80000001
+09X250,Eximius College Preparatory Academy: A College Board School,1363 Fulton Avenue,Bronx,10456,40.833665,-73.902499,9 to 12,N/A,0.93000001,0.80000001,0.88999999,0.67000002
+09X252,Mott Hall Bronx High School,1595 Bathgate Avenue,Bronx,10457,40.839244,-73.901316,9 to 12,N/A,0.89999998,0.81,0.83999997,0.76999998
+09X260,Bronx Center for Science and Mathematics,1363 Fulton Avenue,Bronx,10456,40.833665,-73.902499,9 to 12,N/A,0.89999998,0.89999998,0.91000003,0.79000002
+09X263,Validus Preparatory Academy,1595 Bathgate Avenue,Bronx,10457,40.839244,-73.901316,9 to 12,N/A,0.92000002,0.69,0.82999998,0.50999999
+09X297,Morris Academy for Collaborative Studies,1110 Boston Road,Bronx,10456,40.827642,-73.904473,9 to 12,"2, 5 to Intervale Ave",0.94999999,0.81,0.85000002,0.49000001
+09X324,Bronx Early College Academy for Teaching & Learning,250 East 164th Street,Bronx,10456,40.828696,-73.917668,6 to 12,"4 to Yankee Stadium-161st St; B, D to 167th St",0.85000002,1,0.89999998,0.66000003
+09X327,Comprehensive Model School Project M.S. 327,1501 Jerome Avenue,Bronx,10452,40.842495,-73.916082,6 to 12,"4 to Mt Eden Ave; B, D to 174-175th Sts",0.91000003,0.88,0.86000001,0.72000003
+09X329,Dreamyard Preparatory School,240 East 172nd Street,Bronx,10457,40.840422,-73.91091,9 to 12,"4 to Mt Eden Ave; B, D to 170th St",0.86000001,0.70999998,0.85000002,0.31
+09X350,New Directions Secondary School,240 East 172nd Street,Bronx,10457,40.840422,-73.91091,6 to 12,"4 to Mt Eden Ave; B, D to 170th St",0.75999999,,0.72000003,
+09X365,Academy for Language and Technology,1700 Macombs Road,Bronx,10453,40.849532,-73.916077,9 to 12,"4 to 176th St; B, D to 174-175th Sts",0.98000002,0.99000001,0.88999999,0.61000001
+09X403,Bronx International High School,1110 Boston Road,Bronx,10456,40.827642,-73.904473,9 to 12,"2, 5 to Intervale Ave",0.91000003,0.75999999,0.80000001,0.40000001
+09X404,School for Excellence,1110 Boston Road,Bronx,10456,40.827642,-73.904473,9 to 12,"2, 5 to Intervale Ave",0.92000002,0.62,0.74000001,0.49000001
+09X412,Bronx High School of Business,240 East 172nd Street,Bronx,10457,40.840422,-73.91091,9 to 12,"4 to Mt Eden Ave; B, D to 170th St",0.82999998,0.67000002,0.82999998,0.5
+09X413,Bronx High School for Medical Science,240 East 172nd Street,Bronx,10457,40.840422,-73.91091,6 to 12,"4 to Mt Eden Ave; B, D to 170th St",0.75999999,0.85000002,0.93000001,0.64999998
+09X505,"Bronx School for Law, Government and Justice",244 East 163rd Street,Bronx,10451,40.827607,-73.918681,6 to 12,"4, B, D to Yankee Stadium-161st St",0.81,0.81999999,0.89999998,0.80000001
+09X517,Frederick Douglass Academy III Secondary School,3630 Third Avenue,Bronx,10456,40.833511,-73.90449,9 to 12,N/A,0.88999999,0.72000003,0.76999998,0.38999999
+09X525,Bronx Leadership Academy High School,1710 Webster Avenue,Bronx,10457,40.843588,-73.903236,9 to 12,"B, D to 174-175th Sts",0.69,0.62,0.79000002,0.44
+09X543,High School for Violin and Dance,1110 Boston Road,Bronx,10456,40.827642,-73.904473,9 to 12,N/A,0.93000001,0.63,0.76999998,0.46000001
+09X564,Claremont International High School,240 East 172nd Street,Bronx,10457,40.840422,-73.91091,9 to 12,"4 to Mt Eden Ave; B, D to 170th St",0.83999997,0.82999998,0.86000001,0.47
+09X568,Young Women's Leadership School of the Bronx (TYWLS),1865 Morris Avenue,Bronx,10453,40.848547,-73.908416,6 to 12,"4 to 176th St; B, D to 174-175th Sts",0.82999998,0.94999999,0.88999999,
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141) (RKA),660 West 237th Street,Bronx,10463,40.888338,-73.913486,6 to 12,N/A,0.75999999,0.92000002,0.92000002,0.76999998
+10X213,Bronx Engineering and Technology Academy,99 Terrace View Avenue,Bronx,10463,40.877105,-73.912256,9 to 12,1 to Marble Hill-225th St,0.72000003,0.72000003,0.79000002,0.54000002
+10X225,Theatre Arts Production Company School,2225 Webster Avenue,Bronx,10457,40.854515,-73.896703,6 to 12,"4 to 183rd St; B, D to 182nd-183rd Sts",0.83999997,0.83999997,0.83999997,0.66000003
+10X237,"Marie Curie School for Medicine, Nursing, and Health Professions, The",120 West 231st Street,Bronx,10463,40.875916,-73.90111,9 to 12,1 to 231st St,0.81999999,0.69999999,0.79000002,0.5
+10X243,West Bronx Academy for the Future,500 East Fordham Road,Bronx,10458,40.860043,-73.888267,6 to 12,"B, D to Fordham Rd",0.77999997,0.80000001,0.86000001,0.69999999
+10X264,Bronx Academy for Software Engineering (BASE),2474 Crotona Avenue,Bronx,10458,40.855698,-73.882715,9 to 14,N/A,0.85000002,0.69999999,0.85000002,0.57999998
+10X268,Kingsbridge International High School,2780 Reservoir Avenue,Bronx,10468,40.870293,-73.898309,9 to 12,4 to Kingsbridge Rd,0.83999997,0.63,0.86000001,0.38999999
+10X284,Bronx School of Law and Finance,99 Terrace View Avenue,Bronx,10463,40.877105,-73.912256,9 to 12,1 to Marble Hill-225th St,0.80000001,0.79000002,0.79000002,0.54000002
+10X342,International School for Liberal Arts,2780 Reservoir Avenue,Bronx,10468,40.870293,-73.898309,6 to 12,4 to Kingsbridge Rd,0.88,0.64999998,0.91000003,0.5
+10X351,Bronx Collaborative High School,100 West Mosholu Parkway South,Bronx,10468,40.882178,-73.88691,9 to 12,"4 to Mosholu Parkway; B, D to Bedford Park Blvd",0.83999997,0.69999999,0.75999999,0.55000001
+10X353,World View High School,100 West Mosholu Parkway South,Bronx,10468,40.882178,-73.88691,9 to 12,"4 to Mosholu Parkway; B, D to Bedford Park Blvd",0.91000003,0.93000001,0.91000003,0.50999999
+10X368,In-Tech Academy (M.S. / High School 368),2975 Tibbett Avenue,Bronx,10463,40.879368,-73.909896,6 to 12,1 to Marble Hill-225th St,0.88,0.91000003,0.92000002,0.73000002
+10X374,Knowledge and Power Preparatory Academy International High School (KAPPA),500 East Fordham Road,Bronx,10458,40.860043,-73.888267,9 to 12,"B, D to Fordham Rd",0.94,0.88,0.85000002,0.81
+10X433,High School for Teaching and the Professions,2780 Reservoir Avenue,Bronx,10468,40.870293,-73.898309,9 to 12,4 to Kingsbridge Rd,0.77999997,0.81999999,0.85000002,0.52999997
+10X434,Belmont Preparatory High School,500 East Fordham Road,Bronx,10458,40.860043,-73.888267,9 to 12,"B, D to Fordham Rd",0.87,0.82999998,0.88999999,0.75
+10X437,Fordham High School for the Arts,500 East Fordham Road,Bronx,10458,40.860043,-73.888267,9 to 12,"B, D to Fordham Rd",0.94,0.94999999,0.91000003,0.76999998
+10X438,Fordham Leadership Academy,500 East Fordham Road,Bronx,10458,40.860043,-73.888267,9 to 12,"B, D to Fordham Rd",0.85000002,0.85000002,0.94,0.57999998
+10X439,Bronx High School for Law and Community Service,500 East Fordham Road,Bronx,10458,40.860043,-73.888267,9 to 12,"B, D to Fordham Rd",0.92000002,0.94999999,0.87,0.69
+10X440,DeWitt Clinton High School,100 West Mosholu Parkway South,Bronx,10468,40.882178,-73.88691,9 to 12,"4 to Mosholu Parkway; B, D to Bedford Park Blvd",0.75999999,0.77999997,0.81999999,0.55000001
+10X442,"Celia Cruz Bronx High School of Music, The",2780 Reservoir Avenue,Bronx,10468,40.870293,-73.898309,9 to 12,4 to Kingsbridge Rd,0.91000003,0.97000003,0.92000002,0.82999998
+10X445,"Bronx High School of Science, The",75 West 205 Street,Bronx,10468,40.87759,-73.89104,9 to 12,4 to Bedford Park Blvd-Lehman College,0.91000003,1,0.97000003,0.97000003
+10X477,Marble Hill High School for International Studies,99 Terrace View Avenue,Bronx,10463,40.877105,-73.912256,9 to 12,1 to Marble Hill-225th St,0.92000002,0.95999998,0.93000001,0.80000001
+10X524,Crotona International High School,2474 Crotona Avenue,Bronx,10458,40.855698,-73.882715,9 to 12,N/A,0.94999999,0.73000002,0.88,0.34
+10X546,Bronx Theatre High School,99 Terrace View Avenue,Bronx,10463,40.877105,-73.912256,9 to 12,1 to Marble Hill-225th St,0.75999999,0.83999997,0.80000001,0.69999999
+10X549,Discovery High School,2780 Reservoir Avenue,Bronx,10468,40.870293,-73.898309,9 to 12,4 to Kingsbridge Rd,0.75999999,0.82999998,0.88999999,0.62
+10X565,High School for Energy and Technology,2474 Crotona Avenue,Bronx,10458,40.855698,-73.882715,9 to 12,N/A,0.83999997,0.74000001,0.82999998,0.47999999
+10X696,High School of American Studies at Lehman College,2925 Goulden Avenue,Bronx,10468,40.873938,-73.895382,9 to 12,"4 to Bedford Park Blvd-Lehman College; B, D to Bedford Park Blvd",0.97000003,1,0.95999998,0.99000001
+11X249,Bronx Health Sciences High School,750 Baychester Avenue,Bronx,10475,40.874091,-73.833904,9 to 12,5 to Baychester Ave,0.88,1,0.94,0.77999997
+11X253,Bronx High School for Writing and Communication Arts,800 East Gun Hill Road,Bronx,10467,40.875953,-73.86197,9 to 12,"2, 5 to Gun Hill Rd",0.88,0.70999998,0.83999997,0.44
+11X265,Bronx Lab School,800 East Gun Hill Road,Bronx,10467,40.875953,-73.86197,9 to 12,"2, 5 to Gun Hill Rd",0.81999999,0.75999999,0.81,0.41999999
+11X270,Academy for Scholarship and Entrepreneurship: A College Board School,921 East 228th Street,Bronx,10466,40.887831,-73.852694,9 to 12,"2, 5 to 225th St",0.69999999,0.69999999,0.83999997,0.62
+11X275,High School of Computers and Technology,800 East Gun Hill Road,Bronx,10467,40.875953,-73.86197,9 to 12,"2, 5 to Gun Hill Rd",0.70999998,0.82999998,0.87,0.58999997
+11X288,Collegiate Institute for Math and Science (CIMS),925 Astor Avenue,Bronx,10469,40.859665,-73.861006,9 to 12,2 to Allerton Ave; 5 to Pelham Parkway,0.77999997,0.89999998,0.88999999,0.74000001
+11X290,Bronx Academy of Health Careers,800 East Gun Hill Road,Bronx,10467,40.875953,-73.86197,9 to 12,"2, 5 to Gun Hill Rd",0.69999999,0.85000002,0.89999998,0.55000001
+11X299,Astor Collegiate Academy,925 Astor Avenue,Bronx,10469,40.859665,-73.861006,9 to 12,2 to Allerton Ave; 5 to Pelham Parkway,0.79000002,0.72000003,0.83999997,0.58999997
+11X418,Bronx High School for the Visual Arts,2040 Antin Place,Bronx,10462,40.851405,-73.865036,9 to 12,2 to Bronx Park East; 5 to Morris Park,0.76999998,0.75999999,0.83999997,0.47999999
+11X455,Harry S Truman High School,750 Baychester Avenue,Bronx,10475,40.874091,-73.833904,9 to 12,5 to Baychester Ave,0.76999998,0.74000001,0.88999999,0.56
+11X508,Bronxdale High School,925 Astor Avenue,Bronx,10469,40.859665,-73.861006,9 to 12,2 to Allerton Ave; 5 to Pelham Parkway,0.88999999,0.81,0.85000002,0.57999998
+11X509,High School of Language and Innovation,925 Astor Avenue,Bronx,10469,40.859665,-73.861006,9 to 12,2 to Allerton Ave; 5 to Pelham Parkway,0.82999998,0.82999998,0.89999998,0.51999998
+11X513,New World High School,921 East 228th Street,Bronx,10466,40.887831,-73.852694,9 to 12,"2, 5 to 225th St",0.86000001,0.83999997,0.89999998,0.80000001
+11X514,"Bronxwood Preparatory Academy, The",921 East 228th Street,Bronx,10466,40.887831,-73.852694,9 to 12,"2, 5 to 225th St",0.79000002,0.63,0.91000003,0.46000001
+11X542,Pelham Preparatory Academy,925 Astor Avenue,Bronx,10469,40.859665,-73.861006,9 to 12,2 to Allerton Ave; 5 to Pelham Parkway,0.82999998,0.86000001,0.88999999,0.77999997
+11X544,High School for Contemporary Arts,800 East Gun Hill Road,Bronx,10467,40.875953,-73.86197,9 to 12,"2, 5 to Gun Hill Rd",0.79000002,0.81999999,0.86000001,0.40000001
+11X545,Bronx Aerospace High School,800 East Gun Hill Road,Bronx,10467,40.875953,-73.86197,9 to 12,"2, 5 to Gun Hill Rd",0.69,0.66000003,0.75999999,0.44
+12X242,Mott Hall V,1551 East 172nd Street,Bronx,10472,40.831416,-73.877785,6 to 12,6 to Elder Ave,0.92000002,0.85000002,0.88,0.64999998
+12X248,"Metropolitan High School, The",1180 Rev. J.A. Polite Avenue,Bronx,10459,40.827315,-73.897612,9 to 12,"2, 5 to Simpson St",0.73000002,0.58999997,0.77999997,0.31999999
+12X251,Explorations Academy H.S.,1619 Boston Road,Bronx,10460,40.8359,-73.890458,9 to 12,"2, 5 to 174th St",0.86000001,0.64999998,0.81999999,0.44
+12X267,Bronx Latin,800 Home Street,Bronx,10456,40.827743,-73.900105,6 to 12,"2, 5 to Intervale Ave",0.85000002,0.89999998,0.88999999,0.77999997
+12X271,East Bronx Academy for the Future,1716 Southern Boulevard,Bronx,10460,40.836356,-73.888361,6 to 12,"2, 5 to 174th St",0.76999998,0.75,0.82999998,0.41
+12X388,Pan American International High School at Monroe,1300 Boynton Avenue,Bronx,10472,40.831601,-73.878912,9 to 12,6 to Elder Ave,0.93000001,0.83999997,0.88,0.56
+12X446,Arturo A. Schomburg Satellite Academy Bronx,1010 Rev. J. A. Polite Avenue,Bronx,10459,40.823532,-73.898872,9 to 12,2/5 to Intervale Station; 6 to Hunts Point Avenue,0.97000003,,0.72000003,
+12X478,"Cinema School, The",1551 East 172nd Street,Bronx,10472,40.831416,-73.877785,9 to 12,6 to Elder Ave,0.86000001,0.99000001,0.88999999,0.66000003
+12X479,Bronx Career and College Preparatory High School,800 Home Street,Bronx,10456,40.827743,-73.900105,9 to 12,"2, 5 to Intervale Ave",0.83999997,0.57999998,0.81,0.38999999
+12X511,Bronx Envision Academy,1619 Boston Road,Bronx,10460,40.8359,-73.890458,9 to 12,"2, 5 to 174th St",0.81999999,0.75,0.85000002,0.56999999
+12X521,"Metropolitan Soundview High School, The",1300 Boynton Avenue,Bronx,10472,40.831601,-73.878912,9 to 12,6 to Elder Ave,0.81999999,0.72000003,0.81999999,0.47999999
+12X550,High School of World Cultures,1300 Boynton Avenue,Bronx,10472,40.831601,-73.878912,9 to 12,6 to Elder Ave,0.89999998,0.56999999,0.86000001,0.30000001
+12X682,Fannie Lou Hamer Freedom High School,1021 Jennings Street,Bronx,10460,40.83087,-73.88626,9 to 12,"2, 5 to Freeman St; 6 to Whitlock Ave",0.88,0.74000001,0.79000002,0.47
+12X684,Wings Academy,1122 East 180th Street,Bronx,10460,40.841794,-73.875366,9 to 12,"2, 5 to East 180th St",0.64999998,0.63,0.77999997,0.33000001
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,101 Park Avenue,Brooklyn,11205,40.696324,-73.97578,6 to 12,N/A,0.82999998,0.69,0.77999997,0.43000001
+13K350,Urban Assembly School for Music and Art,49 Flatbush Avenue Extension,Brooklyn,11201,40.697339,-73.985016,9 to 12,"2, 3, 4, 5 to Borough Hall; A, C to High St; B, Q to DeKalb Ave; F to York St; R to Jay St-MetroTech",0.93000001,0.86000001,0.81,0.56
+13K412,Brooklyn Community Arts & Media High School (BCAM),300 Willoughby Avenue,Brooklyn,11205,40.692642,-73.958794,9 to 12,G to Classon Ave,0.88,0.83999997,0.83999997,0.43000001
+13K419,"Science Skills Center High School for Science, Technology and the Creative Arts",49 Flatbush Avenue Extension,Brooklyn,11201,40.697339,-73.985016,9 to 12,"2, 3, 4, 5 to Borough Hall; A, C to High St; B, Q to DeKalb Ave; F to York St; R to Jay St-MetroTech",0.75999999,0.95999998,0.92000002,0.75
+13K430,Brooklyn Technical High School,29 Ft Greene Place,Brooklyn,11217,40.688834,-73.976905,9 to 12,"2, 3, 4, 5 to Nevins St; A to Hoyt & Schermerhorn; B, Q, R to DeKalb Ave; C to Lafayette Ave; D, N to Atlantic Ave; G to Fulton St",0.93000001,0.97000003,0.95999998,0.92000002
+13K439,Brooklyn International High School,49 Flatbush Avenue Extension,Brooklyn,11201,40.697339,-73.985016,9 to 12,"2, 3, 4, 5 to Borough Hall; A, C to High St; B, Q to DeKalb Ave; F to York St; R to Jay St-MetroTech",0.88999999,0.74000001,0.91000003,0.63999999
+13K483,"Urban Assembly School for Law and Justice, The",283 Adams Street,Brooklyn,11201,40.694682,-73.988853,9 to 12,"2, 3, 4, 5, R to Borough Hall; A, C, F to Jay St-Borough Hall; B, Q to DeKalb Ave; G to Hoyt & Schermerhorn; J, Z to High St",0.80000001,0.94999999,0.88,0.88
+13K527,Urban Assembly Institute of Math and Science for Young Women,283 Adams Street,Brooklyn,11201,40.694682,-73.988853,6 to 12,"2, 3, 4, 5 to Borough Hall; A, C, F, R to Jay St-MetroTech; B, Q to DeKalb Ave; G to Hoyt & Schermerhorn",0.83999997,0.89999998,0.85000002,0.77999997
+13K553,Brooklyn Academy High School,832 Marcy Avenue,Brooklyn,11216,40.685004,-73.947152,9 to 12,A/C to Nostrand Avenue; G to Bedford/Nostrand Avenue,0.75,,0.60000002,
+13K594,Gotham Professional Arts Academy,561 Grand Avenue,Brooklyn,11238,40.678488,-73.962105,9 to 12,"C to Clinton/Washington; 2, 3, 4, 5 to Franklin Avenue",0.85000002,0.75,0.80000001,0.60000002
+13K595,Bedford Academy High School,1119 Bedford Avenue,Brooklyn,11216,40.68538,-73.954302,9 to 12,"C, S to Franklin Ave; G to Bedford-Nostrand Avs",0.93000001,0.99000001,0.92000002,0.76999998
+13K605,George Westinghouse Career and Technical Education High School,105 Tech Place,Brooklyn,11201,40.694926,-73.986015,9 to 12,"2, 3, 4, 5 to Borough Hall; A, C, F, R to Jay St-MetroTech; B, Q to DeKalb Ave; G to Hoyt & Schermerhorn",0.79000002,0.92000002,0.88,0.49000001
+13K616,Brooklyn High School for Leadership and Community Service,300 Willoughby Avenue,Brooklyn,11205,40.692642,-73.958794,9 to 12,G to Classon Av,0.88,,0.44999999,
+13K670,Benjamin Banneker Academy,71-77 Clinton Avenue,Brooklyn,11205,40.695332,-73.969243,9 to 12,N/A,0.81999999,0.98000002,0.88999999,0.75999999
+13K674,"City Polytechnic High School of Engineering, Architecture, and Technology",105 Tech Place,Brooklyn,11201,40.694926,-73.986015,9 to 14,"2, 3, 4, 5 to Borough Hall; A, C, F, R to Jay St-MetroTech; B, Q to DeKalb Ave; G to Hoyt & Schermerhorn",0.77999997,0.86000001,0.91000003,0.66000003
+14K071,Juan Morel Campos Secondary School,215 Heyward Street,Brooklyn,11206,40.703624,-73.953146,6 to 12,"G to Broadway; J, M to Hewes St; Z to Marcy Ave",0.92000002,0.60000002,0.87,0.43000001
+14K449,"Brooklyn Latin School, The",223 Graham Avenue,Brooklyn,11206,40.709941,-73.943641,9 to 12,G to Broadway; L to Grand St,0.92000002,0.97000003,0.94,0.92000002
+14K454,"Williamsburg High School of Art and Technology, The",223 Graham Avenue,Brooklyn,11206,40.709941,-73.943641,9 to 12,"G to Broadway; L to Grand St; J, M, Z to Lorimer St",0.93000001,0.81999999,0.85000002,0.63
+14K474,PROGRESS High School for Professional Careers,850 Grand Street,Brooklyn,11211,40.712184,-73.939722,9 to 12,L to Grand St,0.85000002,0.75999999,0.77999997,0.47999999
+14K477,East Williamsburg Scholars Academy,850 Grand Street,Brooklyn,11211,40.712184,-73.939722,9 to 12,L to Grand St,0.86000001,0.74000001,0.73000002,0.27000001
+14K478,"High School for Enterprise, Business and Technology, The",850 Grand Street,Brooklyn,11211,40.712184,-73.939722,9 to 12,L to Grand St,0.82999998,0.81,0.85000002,0.55000001
+14K488,Brooklyn Preparatory High School,257 North 6th Street,Brooklyn,11211,40.715073,-73.954754,9 to 12,G to Lorimer St; L to Bedford Ave,0.91000003,0.93000001,0.83999997,0.76999998
+14K558,Williamsburg High School for Architecture and Design,257 North 6th Street,Brooklyn,11211,40.715073,-73.954754,9 to 12,G to Lorimer St; L to Bedford Ave,0.91000003,0.98000002,0.92000002,0.75
+14K561,Williamsburg Preparatory School,257 North 6th Street,Brooklyn,11211,40.715073,-73.954754,9 to 12,G to Lorimer St; L to Bedford Ave,0.91000003,0.95999998,0.89999998,0.75
+14K586,Lyons Community School,223 Graham Avenue,Brooklyn,11206,40.709941,-73.943641,6 to 12,G to Broadway; L to Grand St,0.86000001,0.72000003,0.79000002,0.55000001
+14K610,A-TECH High School,50 Bedford Avenue,Brooklyn,11222,40.721981,-73.953281,9 to 12,G to Nassau Ave; L to Bedford Ave,0.83999997,0.69999999,0.83999997,0.47999999
+14K614,Young Women's Leadership School of Brooklyn (TYWLS),325 Bushwick Avenue,Brooklyn,11206,40.705204,-73.939407,6 to 12,"J, M to Flushing Ave; L to Montrose Ave",0.87,0.97000003,0.86000001,0.81999999
+14K685,El Puente Academy for Peace and Justice,250 Hooper Street,Brooklyn,11211,40.705898,-73.955611,9 to 12,"G to Broadway; J, M, Z to Hewes St",0.91000003,0.79000002,0.81999999,0.54000002
+15K423,Brooklyn Frontiers High School,112 Schermerhorn Street,Brooklyn,11201,40.690145,-73.989132,9 to 12,"2, 3, 4, 5 to Borough Hall; A, C, F, R to Jay St-MetroTech; B, Q to DeKalb Ave; G to Hoyt & Schermerhorn",0.97000003,,0.73000002,
+15K429,Digital Arts and Cinema Technology High School,284 Baltic Street,Brooklyn,11201,40.685419,-73.993351,9 to 12,"A, C to Hoyt & Schermerhorn; F, G to Bergen St",0.86000001,0.98000002,0.91000003,0.69
+15K448,Brooklyn Collaborative Studies,610 Henry Street,Brooklyn,11231,40.68007,-74.001377,6 to 12,"F, G to Carroll St",0.82999998,0.91000003,0.86000001,0.63
+15K462,John Jay School for Law,237 7th Avenue,Brooklyn,11215,40.669629,-73.979287,9 to 12,"F, G to 7th Ave; R to 4th Ave-9th St",0.86000001,0.91000003,0.83999997,0.63999999
+15K463,Cyberarts Studio Academy,237 7th Avenue,Brooklyn,11215,40.669629,-73.979287,9 to 12,"F, G to 7th Ave; R to 4th Ave-9th St",0.82999998,0.67000002,0.81,0.50999999
+15K464,Park Slope Collegiate,237 7th Avenue,Brooklyn,11215,40.669629,-73.979287,6 to 12,"F, G to 7th Ave; R to 4th Ave-9th St",0.75,0.86000001,0.85000002,0.60000002
+15K497,"Boerum Hill School for International Studies, The",284 Baltic Street,Brooklyn,11201,40.685419,-73.993351,6 to 12,"A, C to Hoyt & Schermerhorn; F, G to Bergen St",0.81,0.73000002,0.81,0.47999999
+15K519,Cobble Hill School of American Studies,347 Baltic Street,Brooklyn,11201,40.684524,-73.990993,9 to 12,"2, 3 to Hoyt St; A, C to Hoyt & Schermerhorn; F, G to Bergen St",0.86000001,0.87,0.80000001,0.64999998
+15K592,Khalil Gibran International Academy,362 Schermerhorn Street,Brooklyn,11217,40.686499,-73.979649,9 to 12,"2, 3, 4, 5 to Nevins St; A to Hoyt & Schermerhorn; B, D, N, Q, R to Atlantic Ave-Barclays Center; C to Lafayette Ave; G to Fulton St",0.83999997,0.56,0.82999998,0.63
+15K656,Brooklyn High School of the Arts,345 Dean Street,Brooklyn,11217,40.683559,-73.98027,9 to 12,"2, 3, 4, 5, B, D, N, Q, R to Atlantic Ave-Barclays Center; A to Hoyt & Schermerhorn; C to Lafayette Ave; G to Fulton St",0.87,0.91000003,0.88999999,0.68000001
+15K667,Sunset Park High School,153 35th Street,Brooklyn,11232,40.65571,-74.005197,9 to 12,"D, N, R to 36th St",0.85000002,0.82999998,0.85000002,0.63999999
+15K684,Millennium Brooklyn High School,237 7th Avenue,Brooklyn,11215,40.669629,-73.979287,9 to 12,"F, G to 7th Ave; R to 4th Ave-9th St",0.91000003,0.99000001,0.95999998,0.88999999
+16K455,Boys and Girls High School,1700 Fulton Street,Brooklyn,11213,40.67944,-73.932407,9 to 12,"A, C to Utica Ave",0.80000001,0.75,0.81999999,0.34999999
+16K498,Brooklyn High School for Law and Technology,1396 Broadway,Brooklyn,11221,40.688831,-73.920906,9 to 12,"J, Z to Gates Ave",0.88999999,0.79000002,0.81,0.68000001
+16K688,"Brooklyn Academy of Global Finance, The",125 Stuyvesant Avenue,Brooklyn,11221,40.691274,-73.933697,9 to 12,"J to Kosciusko St; M, Z to Myrtle Ave",0.86000001,0.74000001,0.85000002,0.27000001
+16K765,Nelson Mandela High School,1700 Fulton Street,Brooklyn,11213,40.67944,-73.932407,9 to 12,"A, C to Utica Ave",0.80000001,0.81,0.74000001,0.67000002
+17K122,Pathways in Technology Early College High School (P-TECH),150 Albany Avenue,Brooklyn,11213,40.675612,-73.938843,9 to 14,3 to Kingston Ave; A to Utica Ave; C to Kingston-Throop,0.88999999,0.76999998,0.91000003,0.73000002
+17K382,Academy for College Preparation and Career Exploration: A College Board School,911 Flatbush Avenue,Brooklyn,11226,40.649787,-73.95855,6 to 12,"B, Q to Church Ave",0.77999997,0.79000002,0.85000002,0.51999998
+17K408,Academy of Hospitality and Tourism,911 Flatbush Avenue,Brooklyn,11226,40.649787,-73.95855,9 to 12,"B, Q to Church Ave",0.89999998,0.91000003,0.83999997,0.82999998
+17K524,International High School at Prospect Heights,883 Classon Avenue,Brooklyn,11225,40.670349,-73.961695,9 to 12,"2, 3, 4, 5 to Franklin Ave; S to Botanic Garden",0.86000001,0.56999999,0.88,0.49000001
+17K528,"High School for Global Citizenship, The",883 Classon Avenue,Brooklyn,11225,40.670349,-73.961695,9 to 12,"2, 3, 4, 5 to Franklin Ave; S to Botanic Gardens",0.87,0.83999997,0.86000001,0.56999999
+17K531,"School for Human Rights, The",600 Kingston Avenue,Brooklyn,11203,40.658893,-73.942458,9 to 12,"2, 5 to Winthrop St",0.81999999,0.82999998,0.88999999,0.67000002
+17K537,High School for Youth and Community Development at Erasmus,911 Flatbush Avenue,Brooklyn,11226,40.649787,-73.95855,9 to 12,"B, Q to Church Ave",0.85000002,0.82999998,0.86000001,0.60000002
+17K539,High School for Service & Learning at Erasmus,911 Flatbush Avenue,Brooklyn,11226,40.649787,-73.95855,9 to 12,"B, Q to Church Ave",0.64999998,0.79000002,0.83999997,0.50999999
+17K543,"Science, Technology and Research Early College High School at Erasmus (STAR)",911 Flatbush Avenue,Brooklyn,11226,40.649787,-73.95855,6 to 12,"B, Q to Church Ave",0.88,1,0.95999998,0.75999999
+17K546,High School for Public Service: Heroes of Tomorrow,600 Kingston Avenue,Brooklyn,11203,40.658893,-73.942458,9 to 12,"2, 5 to Winthrop St",0.83999997,0.88,0.92000002,0.86000001
+17K547,Brooklyn Academy of Science and the Environment (BASE),883 Classon Avenue,Brooklyn,11225,40.670349,-73.961695,9 to 12,"2, 3, 4, 5 to Franklin Av; S to Botanic Garden",0.88,0.74000001,0.89999998,0.44999999
+17K548,Brooklyn School for Music & Theatre,883 Classon Avenue,Brooklyn,11225,40.670349,-73.961695,9 to 12,"2, 3, 4, 5 to Franklin Av; S to Botanic Garden",0.81,0.79000002,0.83999997,0.49000001
+17K590,Medgar Evers College Preparatory School,1186 Carroll Street,Brooklyn,11225,40.667195,-73.951167,6 to 12,"2, 5 to President St; 3 to Nostrand Ave; 4 to Franklin Ave; S to Botanic Gardens",0.70999998,0.95999998,0.93000001,0.82999998
+17K600,Clara Barton High School,901 Classon Avenue,Brooklyn,11225,40.669567,-73.961962,9 to 12,"2, 3, 4, 5 to Franklin Av; S to Botanic Garden",0.72000003,0.81,0.87,0.56999999
+17K646,Aspirations Diploma Plus High School,402 Eastern Parkway,Brooklyn,11225,40.6701,-73.954972,9 to 12,2/3/4 to Franklin Avenue; Franklin Avenue Shuttle,0.97000003,,0.50999999,
+17K745,Brooklyn Institute for Liberal Arts (BILA),600 Kingston Avenue,Brooklyn,11203,40.658893,-73.942458,9 to 12,"2, 5 to Winthrop St",0.87,0.92000002,0.91000003,0.67000002
+17K751,Academy for Health Careers,150 Albany Avenue,Brooklyn,11213,40.675612,-73.938843,9 to 12,3 to Kingston Ave; A to Utica Ave; C to Kingston-Throop,0.88999999,0.80000001,0.86000001,0.60000002
+18K563,It Takes a Village Academy,5800 Tilden Avenue,Brooklyn,11203,40.648657,-73.922171,9 to 12,N/A,0.69,0.87,0.89999998,0.60000002
+18K566,Brooklyn Community High School for Excellence and Equity,6565 Flatlands Avenue,Brooklyn,11236,40.633285,-73.916735,9 to 12,"Transfer to the bus from the L, 2 & 5 from Flatbush Junction",0.81,0.76999998,0.89999998,0.47
+18K567,Brooklyn Theatre Arts High School,6565 Flatlands Avenue,Brooklyn,11236,40.633285,-73.916735,9 to 12,N/A,0.75999999,0.85000002,0.81,0.56
+18K569,Kurt Hahn Expeditionary Learning School,5800 Tilden Avenue,Brooklyn,11203,40.648657,-73.922171,9 to 12,N/A,0.76999998,0.75,0.87,0.56
+18K576,Victory Collegiate High School,6565 Flatlands Avenue,Brooklyn,11236,40.633285,-73.916735,9 to 12,N/A,0.83999997,0.79000002,0.85000002,0.63
+18K617,High School for Innovation in Advertising and Media,1600 Rockaway Parkway,Brooklyn,11236,40.641474,-73.898254,9 to 12,L to Canarsie-Rockaway Parkway,0.79000002,0.83999997,0.82999998,0.40000001
+18K629,Cultural Academy for the Arts and Sciences,5800 Tilden Avenue,Brooklyn,11203,40.648657,-73.922171,9 to 12,N/A,0.77999997,0.70999998,0.85000002,0.52999997
+18K633,High School for Medical Professions,1600 Rockaway Parkway,Brooklyn,11236,40.641474,-73.898254,9 to 12,L to Canarsie-Rockaway Parkway,0.86000001,0.88999999,0.88999999,0.68000001
+18K635,Olympus Academy,755 East 100 Street,Brooklyn,11236,40.645685,-73.8989,9 to 12,L to Canarsie - Rockaway Parkway,0.93000001,,0.60000002,
+18K637,Academy for Conservation and the Environment,6565 Flatlands Avenue,Brooklyn,11236,40.633285,-73.916735,9 to 12,N/A,0.81999999,0.87,0.86000001,0.56
+18K642,Urban Action Academy,1600 Rockaway Parkway,Brooklyn,11236,40.641474,-73.898254,9 to 12,L to Canarsie-Rockaway Parkway,0.74000001,0.64999998,0.79000002,0.36000001
+19K404,Academy for Young Writers,1065 Elton Street,Brooklyn,11208,40.657434,-73.874734,6 to 12,N/A,0.88,0.92000002,0.87,0.74000001
+19K409,East New York Family Academy,145 Pennsylvania Avenue,Brooklyn,11207,40.674135,-73.89643,6 to 12,3 to Van Siclen Ave,0.87,0.94999999,0.88,0.44
+19K422,Spring Creek Community School,1065 Elton Street,Brooklyn,11208,40.657434,-73.874734,6 to 12,N/A,0.86000001,0.97000003,0.88,
+19K502,FDNY - Captain Vernon A. Richard High School for Fire and Life Safety,400 Pennsylvania Avenue,Brooklyn,11207,40.667456,-73.894747,9 to 12,3 to Pennsylvania Ave; L to Livonia Ave,0.81999999,0.81999999,0.74000001,0.31999999
+19K504,High School for Civil Rights,400 Pennsylvania Avenue,Brooklyn,11207,40.667456,-73.894747,9 to 12,3 to Pennsylvania Ave; L to Livonia Ave,0.82999998,0.63,0.79000002,0.27000001
+19K507,Performing Arts and Technology High School,400 Pennsylvania Avenue,Brooklyn,11207,40.667456,-73.894747,9 to 12,3 to Pennsylvania Ave; L to Livonia Ave,0.83999997,0.93000001,0.87,0.51999998
+19K510,World Academy for Total Community Health High School (WATCH),400 Pennsylvania Avenue,Brooklyn,11207,40.667456,-73.894747,9 to 12,3 to Pennsylvania Ave; L to Livonia Ave,0.83999997,0.74000001,0.76999998,0.49000001
+19K583,Multicultural High School,999 Jamaica Avenue,Brooklyn,11208,40.691146,-73.868328,9 to 12,"J, Z to Elderts Lane-75th St",0.85000002,0.81,0.89999998,0.64999998
+19K615,Transit Tech Career and Technical Education High School,1 Wells Street,Brooklyn,11208,40.678276,-73.87596,9 to 12,"A, C to Euclid Ave; J, Z to Norwood Ave",0.69,0.70999998,0.80000001,0.34
+19K618,Academy of Innovative Technology,999 Jamaica Avenue,Brooklyn,11208,40.691146,-73.868328,9 to 12,"J, Z to Elderts Lane-75th St",0.81,0.94999999,0.88999999,0.64999998
+19K639,Brooklyn Lab School,999 Jamaica Avenue,Brooklyn,11208,40.691146,-73.868328,9 to 12,"J, Z to Elderts Lane-75th St",0.76999998,0.70999998,0.82999998,0.44999999
+19K659,Cypress Hills Collegiate Preparatory School,999 Jamaica Avenue,Brooklyn,11208,40.691146,-73.868328,9 to 12,"J, Z to 75th St-Elderts Lane",0.82999998,0.85000002,0.86000001,0.60000002
+19K660,W. H. Maxwell Career and Technical Education High School,145 Pennsylvania Avenue,Brooklyn,11207,40.674135,-73.89643,9 to 12,A to Broadway Junction; C to Liberty Ave; J to Alabama Ave; L to Atlantic Ave,0.85000002,0.82999998,0.76999998,0.46000001
+19K683,School for Classics High School,370 Fountain Avenue,Brooklyn,11208,40.670724,-73.874208,9 to 12,"A, C to Euclid Ave",0.91000003,0.69999999,0.81,0.41
+19K764,"Urban Assembly School for Collaborative Healthcare, The",999 Jamaica Avenue,Brooklyn,11208,40.691146,-73.868328,9 to 12,"J, Z to Elderts Lane-75th St",0.75,0.85000002,0.86000001,0.55000001
+19K953,The East New York Arts and Civics High School (T.E.A.C.H.),800 Van Siclen Avenue,Brooklyn,11207,40.66011,-73.885387,9 to 12,3 to Van Siclen Ave,,,,
+20K445,New Utrecht High School,1601 80th Street,Brooklyn,11214,40.613262,-74.003404,9 to 12,D to 79th St,0.80000001,0.77999997,0.88,0.66000003
+20K485,High School of Telecommunication Arts and Technology,350 67th Street,Brooklyn,11220,40.637282,-74.023849,9 to 12,N to 59th St; R to Bay Ridge Ave,0.89999998,0.91000003,0.94,0.81999999
+20K490,Fort Hamilton High School,8301 Shore Road,Brooklyn,11209,40.627898,-74.039985,9 to 12,N/A,0.77999997,0.80000001,0.91000003,0.64999998
+20K505,Franklin Delano Roosevelt High School,5800 20th Avenue,Brooklyn,11204,40.620446,-73.981795,9 to 12,F to Bay Parkway-22nd Ave; N to 20th Ave,0.79000002,0.69,0.85000002,0.56999999
+20K609,Urban Assembly School for Leadership and Empowerment,4200 16th Avenue,Brooklyn,11204,40.634875,-73.981528,6 to 12,F to Ditmas Ave,0.93000001,0.97000003,0.89999998,0.81
+21K337,International High School at Lafayette,2630 Benson Avenue,Brooklyn,11214,40.594291,-73.98577,9 to 12,D to Bay 50th St; N to 86th St,0.83999997,0.63,0.88,0.44
+21K344,Rachel Carson High School for Coastal Studies,521 West Avenue,Brooklyn,11224,40.582533,-73.973132,9 to 12,F to Neptune Ave-Van Siclen; Q to Ocean Parkway,0.85000002,0.75999999,0.86000001,0.54000002
+21K348,High School of Sports Management,2630 Benson Avenue,Brooklyn,11214,40.594291,-73.98577,9 to 12,D to Bay 50th St; N to 86th St,0.82999998,0.69999999,0.74000001,0.62
+21K410,Abraham Lincoln High School,2800 Ocean Parkway,Brooklyn,11235,40.581681,-73.967308,9 to 12,F to Neptune Ave-Van Siclen; Q to Ocean Parkway,0.86000001,0.83999997,0.87,0.58999997
+21K468,Kingsborough Early College School,2630 Benson Avenue,Brooklyn,11214,40.594291,-73.98577,6 to 12,D to Bay 50th St; N to 86th St,0.79000002,0.97000003,0.93000001,0.76999998
+21K525,Edward R. Murrow High School,1600 Avenue L,Brooklyn,11230,40.620525,-73.959285,9 to 12,Q to Ave M,0.77999997,0.83999997,0.91000003,0.69999999
+21K540,John Dewey High School,50 Avenue X,Brooklyn,11223,40.589268,-73.981738,9 to 12,D to Bay 50th St; F to Ave X; N to 86th St,0.83999997,0.79000002,0.92000002,0.66000003
+21K559,Life Academy High School for Film and Music,2630 Benson Avenue,Brooklyn,11214,40.594291,-73.98577,9 to 12,D to Bay 50th St; N to 86th St,0.76999998,0.91000003,0.83999997,0.54000002
+21K572,Leaders High School,2630 Benson Avenue,Brooklyn,11214,40.594291,-73.98577,9 to 12,D to Bay 50th St; N to 86th St,0.88,0.88,0.81999999,0.80000001
+21K620,William E. Grady Career and Technical Education High School,25 Brighton 4th Road,Brooklyn,11235,40.582585,-73.963477,9 to 12,"B, Q to Brighton Beach",0.80000001,0.74000001,0.81999999,0.43000001
+21K690,Brooklyn Studio Secondary School,8310 21st Avenue,Brooklyn,11214,40.604879,-73.994404,6 to 12,D to 20th Ave,0.81,0.79000002,0.87,0.64999998
+21K728,Liberation Diploma Plus,2865 West 19th Street,Brooklyn,11224,40.577208,-73.985953,9 to 12,"D, F, N, Q to Stillwell Ave",0.89999998,,0.47999999,
+22K405,Midwood High School,2839 Bedford Avenue,Brooklyn,11210,40.633237,-73.952929,9 to 12,"2, 5 to Flatbush Ave-Brooklyn College",0.81,0.94,0.93000001,0.83999997
+22K425,James Madison High School,3787 Bedford Avenue,Brooklyn,11229,40.609912,-73.948512,9 to 12,"B, Q to Kings Highway",0.81,0.81999999,0.94,0.77999997
+22K535,Leon M. Goldstein High School for the Sciences,1830 Shore Boulevard,Brooklyn,11235,40.580894,-73.935952,9 to 12,N/A,0.92000002,0.97000003,0.94999999,0.85000002
+22K555,Brooklyn College Academy,350 Coney Island Avenue,Brooklyn,11218,40.649404,-73.971736,9 to 12,"B, Q to Church Ave; F, G to Fort Hamilton Parkway",0.93000001,1,0.95999998,0.88
+22K611,Origins High School,3000 Avenue X,Brooklyn,11235,40.594124,-73.937696,9 to 12,N/A,0.80000001,0.79000002,0.82999998,0.69999999
+22K630,Professional Pathways High School,3000 Avenue X,Brooklyn,11235,40.594124,-73.937696,9 to 12,N/A,0.99000001,,0.58999997,
+23K493,Brooklyn Collegiate: A College Board School,2021 Bergen Street,Brooklyn,11233,40.674103,-73.913273,9 to 12,"C to Rockaway Ave; A, J, L, Z to Broadway Junction",0.87,0.76999998,0.83999997,0.54000002
+23K514,Frederick Douglass Academy VII High School,226 Bristol Street,Brooklyn,11212,40.665878,-73.911705,9 to 12,3 to Rockaway Ave,0.92000002,0.86000001,0.87,0.23
+23K643,Brooklyn Democracy Academy,985 Rockaway Avenue,Brooklyn,11212,40.656068,-73.907245,9 to 12,3 to Rockaway Ave; L to New Lots Ave,0.94999999,,0.63999999,
+23K644,Eagle Academy for Young Men II,1137 Herkimer Street,Brooklyn,11233,40.677805,-73.915843,6 to 12,"C to Rockaway Ave; J, Z to Chauncey S",0.81999999,0.88,0.88999999,0.58999997
+23K647,Metropolitan Diploma Plus High School,985 Rockaway Avenue,Brooklyn,11212,40.656068,-73.907245,9 to 12,3 to Rockaway Ave; L to New Lots Ave,0.94999999,,0.57999998,
+23K697,Teachers Preparatory High School,226 Bristol Street,Brooklyn,11212,40.665878,-73.911705,9 to 12,3 to Rockaway Ave,0.80000001,0.70999998,0.77999997,0.47
+24Q236,International High School for Health Sciences,48-01 90th Street,Elmhurst,11373,40.741122,-73.874721,9 to 12,"M, R to Grand Ave-Newtown",0.89999998,0.70999998,0.87,0.47999999
+24Q264,Academy of Finance and Enterprise,30-20 Thomson Avenue,Long Island City,11101,40.745095,-73.936635,9 to 12,"7 to 33rd St-Rawson St; E, M, R to Queens Plaza; G to Court Square; N, W to Queensboro Plaza",0.92000002,0.95999998,0.93000001,0.94999999
+24Q267,High School of Applied Communication,30-20 Thomson Avenue,Long Island City,11101,40.745095,-73.936635,9 to 12,"7 to 33rd St-Rawson St; E, M, R to Queens Plaza; G to Court Square; N, W to Queensboro Plaza",0.75,0.94999999,0.89999998,0.62
+24Q293,Civic Leadership Academy,45-10 94th Street,Elmhurst,11373,40.74373,-73.870642,9 to 12,7 to Junction Blvd,0.94999999,0.92000002,0.91000003,0.83999997
+24Q296,Pan American International High School,45-10 94th Street,Elmhurst,11373,40.74373,-73.870642,9 to 12,7 to Junction Blvd,0.95999998,0.85000002,0.94,0.56
+24Q299,Bard High School Early College Queens,30-20 Thomson Avenue,Long Island City,11101,40.745095,-73.936635,9 to 12,"7 to 33rd St-Rawson St; E, M, R to Queens Plaza; G to Court Square; N, W to Queensboro Plaza",0.97000003,0.99000001,0.95999998,0.97000003
+24Q455,Newtown High School,48-01 90th Street,Elmhurst,11373,40.741122,-73.874721,9 to 12,"M, R to Grand Ave-Newtown",0.86000001,0.72000003,0.88999999,0.60000002
+24Q485,Grover Cleveland High School,21-27 Himrod Street,Ridgewood,11385,40.711033,-73.908814,9 to 12,N/A,0.82999998,0.67000002,0.83999997,0.41999999
+24Q520,Middle College High School at LaGuardia Community College,45-35 Van Dam Street,Long Island City,11101,40.744412,-73.93364,9 to 12,"7 to 33rd St-Rawson St; E, M, R to Queens Plaza",0.91000003,0.83999997,0.93000001,0.86000001
+24Q530,International High School at LaGuardia Community College,45-35 Van Dam Street,Long Island City,11101,40.744412,-73.93364,9 to 12,"7 to 33rd St-Rawson St; E, M, R to Queens Plaza",0.99000001,0.81,0.92000002,0.79000002
+24Q550,High School for Arts and Business,105-25 Horace Harding Expressway N,Corona,11368,40.737427,-73.853178,9 to 12,N/A,0.93000001,0.94999999,0.91000003,0.77999997
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",47-07 30th Place,Long Island City,11101,40.742839,-73.936782,6 to 12,"7 to 33rd St-Rawson St; E, M, R to Queens Plaza; G to Court Square",0.88,0.99000001,0.92000002,0.70999998
+24Q585,Maspeth High School,54-40 74th Street,Elmhurst,11373,40.729939,-73.887482,9 to 12,N/A,0.91000003,0.98000002,0.93000001,0.88
+24Q600,Queens Technical High School,37-02 47th Avenue,Long Island City,11101,40.742205,-73.928219,9 to 12,7 to 40th St-Lowery St,0.86000001,0.81,0.92000002,0.60000002
+24Q610,Aviation Career & Technical Education High School,45-30 36th Street,Long Island City,11101,40.743509,-73.929076,9 to 12,7 to 33rd St-Rawson St,0.92000002,0.97000003,0.97000003,0.92000002
+25Q240,Veritas Academy,35-01 Union Street,Flushing,11354,40.765166,-73.82789,9 to 12,7 to Flushing-Main St,0.77999997,0.86000001,0.88999999,0.68000001
+25Q241,Queens High School for Language Studies,35-01 Union Street,Flushing,11354,40.765166,-73.82789,9 to 12,7 to Flushing-Main St,0.88999999,0.91000003,0.93000001,0.92000002
+25Q252,"Queens School of Inquiry, The",158-40 76th Road,Fresh Meadows,11366,40.724458,-73.810216,6 to 12,N/A,0.86000001,0.97000003,0.94,0.91000003
+25Q263,Flushing International High School,144-80 Barclay Avenue,Flushing,11355,40.759844,-73.820548,9 to 12,N/A,0.94,0.64999998,0.88999999,0.56
+25Q281,East-West School of International Studies,46-21 Colden Street,Flushing,11355,40.749545,-73.822073,6 to 12,N/A,0.86000001,0.95999998,0.93000001,0.82999998
+25Q285,World Journalism Preparatory: A College Board School,34-65 192nd Street,Flushing,11358,40.765133,-73.790083,6 to 12,N/A,0.82999998,0.99000001,0.92000002,0.88999999
+25Q425,John Bowne High School,63-25 Main Street,Flushing,11367,40.738139,-73.824944,9 to 12,N/A,0.74000001,0.76999998,0.85000002,0.58999997
+25Q460,Flushing High School,35-01 Union Street,Flushing,11354,40.765166,-73.82789,9 to 12,7 to Flushing-Main St,0.79000002,0.69999999,0.83999997,0.41
+25Q525,Townsend Harris High School,149-11 Melbourne Avenue,Flushing,11367,40.73439,-73.821392,9 to 12,N/A,0.97000003,1,0.97000003,0.99000001
+25Q540,Queens Academy High School,138-11 35 Avenue,Queens,11354,40.765162,-73.8288,9 to 12,7 to Flushing-Main Street,0.88999999,,0.51999998,
+25Q670,Robert F. Kennedy Community High School,75-40 Parsons Boulevard,Fresh Meadows,11366,40.725603,-73.810697,9 to 12,N/A,0.83999997,0.92000002,0.89999998,0.67000002
+25Q792,North Queens Community High School,141-25 77th Road,Queens,11367,40.720359,-73.819792,9 to 12,,0.91000003,,0.57999998,
+26Q315,Business Technology Early College High School (BTECH),230-17 Hillside Avenue,Queens Village,11427,40.733066,-73.738756,9 to 14,N/A,0.88999999,0.94,0.87,0.81
+26Q415,Benjamin N. Cardozo High School,57-00 223rd Street,Bayside,11364,40.752333,-73.75599,9 to 12,N/A,0.55000001,0.89999998,0.92000002,0.77999997
+26Q430,Francis Lewis High School,58-20 Utopia Parkway,Fresh Meadows,11365,40.740724,-73.79283,9 to 12,N/A,0.87,0.89999998,0.92000002,0.77999997
+26Q435,Martin Van Buren High School,230-17 Hillside Avenue,Queens Village,11427,40.733066,-73.738756,9 to 12,N/A,0.66000003,0.79000002,0.88,0.63
+26Q495,Bayside High School,32-24 Corporal Kennedy Street,Bayside,11361,40.771755,-73.780296,9 to 12,N/A,0.79000002,0.98000002,0.93000001,0.81999999
+26Q566,"Queens High School of Teaching, Liberal Arts and the Sciences",74-20 Commonwealth Blvd,Queens,11426,40.746088,-73.727535,9 to 12,N/A,0.76999998,0.93000001,0.89999998,0.81999999
+27Q260,Frederick Douglass Academy VI High School,8-21 Bay 25th Street,Far Rockaway,11691,40.60201,-73.762795,9 to 12,A to Beach 25th St,0.72000003,0.47999999,0.77999997,0.23
+27Q262,Channel View School for Research,100-00 Beach Channel Drive,Rockaway Park,11694,40.586066,-73.822624,6 to 12,"A, S to Beach 105th St",0.86000001,0.93000001,0.89999998,0.76999998
+27Q302,"Queens High School for Information, Research, and Technology",8-21 Bay 25th Street,Far Rockaway,11691,40.60201,-73.762795,9 to 12,A to Beach 25th St,0.91000003,0.81999999,0.85000002,0.62
+27Q308,Robert H. Goddard High School of Communication Arts and Technology,138-30 Lafayette Street,Ozone Park,11417,40.67124,-73.845141,9 to 12,N/A,0.89999998,0.92000002,0.93000001,0.83999997
+27Q309,Academy of Medical Technology: A College Board School,8-21 Bay 25th Street,Far Rockaway,11691,40.60201,-73.762795,6 to 12,A to Beach 25th St,0.79000002,0.67000002,0.86000001,0.70999998
+27Q314,Epic High School - South,121-10 Rockaway Boulevard,South Ozone Park,11420,40.675771,-73.816938,9 to 12,N/A,0.85000002,0.82999998,0.83999997,0.61000001
+27Q323,Scholars' Academy,320 Beach 104th Street,Rockaway Park,11694,40.584109,-73.825711,6 to 12,"A, S to Beach 105th St",0.93000001,1,0.94,0.97000003
+27Q324,Rockaway Park High School for Environmental Sustainability,100-00 Beach Channel Drive,Rockaway Park,11694,40.586066,-73.822624,9 to 12,"A, S to Beach 105th St",0.74000001,0.74000001,0.77999997,0.40000001
+27Q334,Epic High School - North,94-25 117th Street,South Richmond Hill,11419,40.693006,-73.829407,9 to 12,J to 111th St,0.87,0.81,0.85000002,0.75999999
+27Q351,Rockaway Collegiate High School,100-00 Beach Channel Drive,Rockaway Park,11694,40.586066,-73.822624,9 to 12,"A, S to Beach 105th St",0.70999998,0.63999999,0.80000001,0.50999999
+27Q400,August Martin High School,156-10 Baisley Boulevard,Jamaica,11434,40.675633,-73.783342,9 to 12,N/A,0.87,0.83999997,0.88999999,0.20999999
+27Q475,Richmond Hill High School,89-30 114th Street,Richmond Hill,11418,40.695888,-73.833681,9 to 12,J to 111th St; Z to 121st St,0.81999999,0.68000001,0.88,0.56999999
+27Q480,John Adams High School,101-01 Rockaway Boulevard,Ozone Park,11417,40.679639,-73.837298,9 to 12,A to 104th St,0.73000002,0.81999999,0.87,0.47
+27Q650,"High School for Construction Trades, Engineering and Architecture",94-06 104th Street,Ozone Park,11416,40.689591,-73.840717,9 to 12,"J, Z to 104th St",0.83999997,0.98000002,0.94,0.81999999
+28Q167,Metropolitan Expeditionary Learning School,91-30 Metropolitan Avenue,Forest Hills,11375,40.711367,-73.856698,6 to 12,N/A,0.86000001,0.94999999,0.94,0.82999998
+28Q284,York Early College Academy,108-35 167th Street,Jamaica,11433,40.69719,-73.787192,6 to 12,N/A,0.88999999,0.97000003,0.93000001,0.94
+28Q310,Queens Collegiate: A College Board School,167-01 Gothic Drive,Jamaica,11432,40.713218,-73.797237,6 to 12,F to 169th St,0.75999999,0.81999999,0.86000001,0.72000003
+28Q325,Hillside Arts & Letters Academy,167-01 Gothic Drive,Jamaica,11432,40.713218,-73.797237,9 to 12,F to 169th St,0.92000002,0.91000003,0.87,0.63999999
+28Q328,High School for Community Leadership,167-01 Gothic Drive,Jamaica,11432,40.713218,-73.797237,9 to 12,F to 169th St,0.82999998,0.94,0.83999997,0.69
+28Q350,Jamaica Gateway to the Sciences,167-01 Gothic Drive,Jamaica,11432,40.713218,-73.797237,9 to 12,F to 169th St,0.87,0.91000003,0.89999998,0.75
+28Q440,Forest Hills High School,67-01 110th Street,Forest Hills,11375,40.729402,-73.845637,9 to 12,N/A,0.60000002,0.87,0.88,0.75999999
+28Q505,Hillcrest High School,160-05 Highland Avenue,Jamaica,11432,40.709446,-73.80166,9 to 12,F to Parsons Blvd,0.79000002,0.77999997,0.87,0.56999999
+28Q620,Thomas A. Edison Career and Technical Education High School,165-65 84th Avenue,Jamaica,11432,40.715389,-73.800369,9 to 12,N/A,0.87,0.92000002,0.94,0.77999997
+28Q680,Queens Gateway to Health Sciences Secondary School,160-20 Goethals Avenue,Jamaica,11432,40.718831,-73.806499,6 to 12,N/A,0.75999999,0.95999998,0.93000001,0.88999999
+28Q686,Queens Metropolitan High School,91-30 Metropolitan Avenue,Forest Hills,11375,40.711367,-73.856698,9 to 12,N/A,0.93000001,0.91000003,0.92000002,0.76999998
+28Q687,Queens High School for the Sciences at York College,94-50 159th Street,Jamaica,11433,40.701049,-73.798151,9 to 12,"E, J, Z to Jamaica Center-Parsons/Archer",0.92000002,1,0.97000003,0.92000002
+28Q690,High School for Law Enforcement and Public Safety,116-25 Guy R Brewer Boulevard,Jamaica,11434,40.686208,-73.784144,9 to 12,N/A,0.79000002,0.81,0.87,0.66000003
+28Q896,"Young Women's Leadership School, Queens (TYWLS)",150-91 87th Road,Jamaica,11432,40.707527,-73.806412,6 to 12,"E, J, Z to Jamaica Center-Parsons/Archer; F to Parsons Blvd",0.87,0.99000001,0.92000002,0.81999999
+29Q243,Institute for Health Professions at Cambria Heights,207- 01 116th Avenue,Cambria Heights,11411,40.697819,-73.745728,9 to 12,N/A,0.88999999,0.88999999,0.87,0.74000001
+29Q248,Queens Preparatory Academy,143-10 Springfield Boulevard,Springfield Gardens,11413,40.668235,-73.756839,9 to 12,N/A,0.67000002,0.79000002,0.81,0.52999997
+29Q259,Pathways College Preparatory School: A College Board School,109-89 204th Street,Saint Albans,11412,40.70646,-73.753579,6 to 12,N/A,0.69999999,0.83999997,0.89999998,0.50999999
+29Q265,Excelsior Preparatory High School,143-10 Springfield Boulevard,Springfield Gardens,11413,40.668235,-73.756839,9 to 12,N/A,0.81999999,0.83999997,0.86000001,0.61000001
+29Q272,George Washington Carver High School for the Sciences,143-10 Springfield Boulevard,Springfield Gardens,11413,40.668235,-73.756839,9 to 12,N/A,0.82999998,0.72000003,0.85000002,0.63
+29Q283,Preparatory Academy for Writers: A College Board School,143-10 Springfield Boulevard,Springfield Gardens,11413,40.668235,-73.756839,6 to 12,N/A,0.86000001,0.88999999,0.85000002,0.74000001
+29Q313,Benjamin Franklin High School for Finance & Information Technology,207- 01 116th Avenue,Cambria Heights,11411,40.697819,-73.745728,9 to 12,N/A,0.85000002,0.83999997,0.85000002,0.60000002
+29Q326,Cambria Heights Academy,188-04 91st Avenue,Hollis,11423,40.711849,-73.771195,9 to 12,N/A,0.89999998,0.94,0.87,0.73000002
+29Q327,Eagle Academy for Young Men III,171-10 Linden Boulevard,Jamaica,11434,40.691712,-73.778923,6 to 12,N/A,0.72000003,0.89999998,0.87,0.70999998
+29Q492,"Mathematics, Science Research and Technology Magnet High School",207- 01 116th Avenue,Cambria Heights,11411,40.697819,-73.745728,9 to 12,N/A,0.81,0.73000002,0.83999997,0.51999998
+29Q498,Humanities & Arts Magnet High School,207- 01 116th Avenue,Cambria Heights,11411,40.697819,-73.745728,9 to 12,N/A,0.80000001,0.83999997,0.86000001,0.55000001
+30Q258,Energy Tech High School,36-41 28th Street,Astoria,11106,40.757065,-73.932664,9 to 14,"M, R to 36th St; N, W to 36th Ave",0.87,0.88,0.91000003,0.83999997
+30Q286,"Young Women's Leadership School, Astoria (TYWLS)",23-15 Newtown Avenue,Astoria,11102,40.771215,-73.924591,6 to 12,"N, W to 30th Ave",0.94,1,0.94,0.92000002
+30Q301,Academy for Careers in Television and Film (ACTV),1-50 51st Avenue,Long Island City,11101,40.742956,-73.959196,9 to 14,7 to Vernon Blvd-Jackson Ave,0.92000002,0.98000002,0.93000001,0.88999999
+30Q445,William Cullen Bryant High School,48-10 31st Avenue,Astoria,11103,40.75823,-73.910514,9 to 12,"M, R to 46th St",0.76999998,0.75,0.88,0.55000001
+30Q450,Long Island City High School,14-30 Broadway,Astoria,11106,40.765826,-73.9328,9 to 12,"N, W to Broadway",0.80000001,0.76999998,0.88,0.50999999
+30Q501,Frank Sinatra School of the Arts High School,35-12 35th Avenue,Astoria,11106,40.756534,-73.925121,9 to 12,"M, R to Steinway St; N, W to 36th Ave",0.94999999,0.94,0.92000002,0.83999997
+30Q502,Information Technology High School,21-16 44th Road,Long Island City,11101,40.748701,-73.94638,9 to 12,"7, E, G, M to Court Square; N, W to Queensboro Plaza; R to Queens Plaza",0.77999997,0.76999998,0.88,0.64999998
+30Q555,Newcomers High School,28-01 41st Avenue,Long Island City,11101,40.751356,-73.937445,9 to 12,"7, N, W to Queensboro Plaza; E, M, R to Queens Plaza; F to 21st St-Queensbridge",0.91000003,0.68000001,0.88999999,0.5
+30Q575,Academy of American Studies,28-04 41st Avenue,Long Island City,11101,40.751331,-73.937434,9 to 12,"7, N, W to Queensboro Plaza; E, M, R to Queens Plaza; F to 21st St-Queensbridge; G to Court Square",0.83999997,0.97000003,0.93000001,0.94999999
+30Q580,Baccalaureate School for Global Education,34-12 36th Avenue,Astoria,11106,40.755366,-73.927169,7 to 12,"M, R to 36th St; N, W to 36th Ave",0.97000003,0.98000002,0.95999998,0.89999998
+31R028,"Eagle Academy for Young Men of Staten Island, The",101 Warren Street,Staten Island,10304,40.620347,-74.081643,6 to 12,SIR to Clifton,0.83999997,,0.88999999,
+31R047,CSI High School for International Studies,100 Essex Drive,Staten Island,10314,40.581315,-74.158589,9 to 12,N/A,0.88999999,1,0.94999999,0.93000001
+31R064,Gaynor McCown Expeditionary Learning School,100 Essex Drive,Staten Island,10314,40.581315,-74.158589,9 to 12,N/A,0.88,0.93000001,0.92000002,0.86000001
+31R080,"Michael J. Petrides School, The",715 Ocean Terrace,Staten Island,10301,40.608512,-74.102067,PK to 12,N/A,0.77999997,0.94999999,0.92000002,0.92000002
+31R440,New Dorp High School,465 New Dorp Lane,Staten Island,10306,40.569393,-74.107737,9 to 12,N/A,0.79000002,0.83999997,0.91000003,0.63999999
+31R445,Port Richmond High School,85 St. Josephs Avenue,Staten Island,10302,40.634573,-74.141818,9 to 12,N/A,0.75,0.72000003,0.83999997,0.5
+31R450,Curtis High School,105 Hamilton Avenue,Staten Island,10301,40.644735,-74.081222,9 to 12,SIR to St. George,0.79000002,0.79000002,0.86000001,0.64999998
+31R455,Tottenville High School,100 Luten Avenue,Staten Island,10312,40.528092,-74.192032,9 to 12,SIR to Huguenot,0.81999999,0.92000002,0.92000002,0.74000001
+31R460,Susan E. Wagner High School,1200 Manor Road,Staten Island,10314,40.596803,-74.124227,9 to 12,N/A,0.82999998,0.88999999,0.91000003,0.75999999
+31R600,Ralph R. McKee Career and Technical Education High School,290 St. Marks Place,Staten Island,10301,40.642793,-74.07873,9 to 12,SIR to St. George,0.81,0.73000002,0.83999997,0.44
+31R605,Staten Island Technical High School,485 Clawson Street,Staten Island,10306,40.567873,-74.115373,9 to 12,SIR to New Dorp,0.97000003,1,0.95999998,0.91000003
+32K168,"Brooklyn School for Math and Research, The",400 Irving Avenue,Brooklyn,11237,40.697185,-73.91117,9 to 12,"L, M to Myrtle-Wyckoff Avs",0.81,0.88,0.89999998,0.75999999
+32K403,Academy for Excellence in Leadership,400 Irving Avenue,Brooklyn,11237,40.697185,-73.91117,9 to 12,"L, M to Myrtle-Wyckoff Avs",0.81,0.72000003,0.83999997,0.44999999
+32K545,EBC High School for Public Service - Bushwick,1155 Dekalb Avenue,Brooklyn,11221,40.694507,-73.929107,9 to 12,J to Kosciusko St; M to Central Ave; Z to Myrtle Ave,0.85000002,0.81,0.82999998,0.52999997
+32K549,"Brooklyn School for Social Justice, The",400 Irving Avenue,Brooklyn,11237,40.697185,-73.91117,9 to 12,"L, M to Myrtle-Wyckoff Avs",0.88,0.72000003,0.79000002,0.31
+32K552,"Academy of Urban Planning and Engineering, The",400 Irving Avenue,Brooklyn,11237,40.697185,-73.91117,9 to 12,"L, M to Myrtle-Wyckoff Aves",0.88999999,0.82999998,0.89999998,0.58999997
+32K554,All City Leadership Secondary School,321 Palmetto Street,Brooklyn,11237,40.69737,-73.913171,6 to 12,"L, M to Myrtle-Wyckoff Avs",0.95999998,0.98000002,0.93000001,0.87
+32K556,Bushwick Leaders High School for Academic Excellence,797 Bushwick Avenue,Brooklyn,11221,40.695056,-73.92814,9 to 12,J to Kosciusko St; M to Central Ave; Z to Myrtle Ave,0.86000001,0.75999999,0.82999998,0.46000001
