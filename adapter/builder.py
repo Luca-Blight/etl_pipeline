@@ -38,7 +38,6 @@ def extract():
 @task
 def create_transform_df(records):
     df = pd.DataFrame(records)
-    ddf = dd.from_pandas(df, npartitions=2)
     columns = ['dbn','school_name','primary_address_line_1','city','postcode',
                'latitude','longitude','gradespan','subway','pct_stu_safe','graduation_rate',
                'attendance_rate','college_career_rate']
@@ -48,7 +47,6 @@ def create_transform_df(records):
 @task
 def create_transform_df_two(records):
     df = pd.DataFrame(records)
-    ddf = dd.from_pandas(df, npartitions=2)
     return df
 
 @task

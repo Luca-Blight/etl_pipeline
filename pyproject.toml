@@ -16,13 +16,14 @@ stem = "^1.8.0"
 bs4 = "^0.0.1"
 s3fs = "^2021.10.1"
 fastparquet = "^0.7.1"
-prefect = {extras = ["viz"], version = "^0.15.7"}
+prefect = {extras = ["dev"], version = "^0.15.7"}
 jupyter = "^1.0.0"
 python-dotenv = "^0.19.1"
-graphviz = "^0.17"
 dask = "^2021.10.0"
 autopep8 = "^1.5.7"
 DateTime = "^4.3"
+pydot = "^1.4.2"
+pydot-ng = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 
