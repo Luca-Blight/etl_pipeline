@@ -73,8 +73,8 @@ def build_flow(schedule=None):
 
 
 if __name__ == "__main__":
-    schedule = IntervalSchedule(start_date=dt.datetime.now() + dt.timedelta(seconds=1),
-                interval=dt.timedelta(seconds=5))
+    schedule = IntervalSchedule(start_date=dt.datetime.now() + dt.timedelta(hours=11),
+                interval=dt.timedelta(hours=12))
     flow = build_flow(schedule)
     flow.visualize()
     flow.run()
