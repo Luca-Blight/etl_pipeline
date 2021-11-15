@@ -30,10 +30,10 @@ def extract():
             return data 
             
 
-    school_loc_details = Client().request_school_locs()
-    school_results = Client().request_school_locs()
+    school_info = Client().request_school_info()
+    school_results = Client().request_school_results()
 
-    return school_loc_details, school_results
+    return school_info, school_results
 
 @task
 def create_transform_df(records):
@@ -78,5 +78,3 @@ if __name__ == "__main__":
     flow = build_flow(schedule)
     flow.visualize()
     flow.run()
-
-
