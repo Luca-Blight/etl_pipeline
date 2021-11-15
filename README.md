@@ -9,8 +9,6 @@ Orginal Source: https://data.cityofnewyork.us/resource/8b6c-7uty.json
 Appended later: https://data.cityofnewyork.us/resource/kybe-9iex.json
 
 
-Develop a data model of all relevant datasets
-
 The data source was seleced from [https://opendata.cityofnewyork.us/](https://opendata.cityofnewyork.us/), which is a NYC public platform to extract local information like Education, Health, Business, Housing Development etc.
 
 The dataset that I chose to work with pertains particuarly to school information, providing general details about each available school such as Address, Graduation rate, and Gradespan. I chose this data source because it has been my experience working in real estate that the quality of schools and the gradespan available has a significant affect on the value of the residence. 
@@ -26,7 +24,7 @@ as a data lake/staging area for other services. Athena was added to the infrastr
 
 Potential Areas of Improvement improvement
 
-Other potential sources of value include zoning data, particularly by stages of approval.
+Other sources of value could include zoning data, particularly by stages of approval.
 
 Table could be denormalized to results table and school table. 
 More maintenance but improved read speed if behavior warrants it. 
