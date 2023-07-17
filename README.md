@@ -1,4 +1,4 @@
-# mvp-haystack
+# Simple-pipeline Example
 https://www.notion.so/Haystack-Test-770b81bc302d4997a98be926cc207b97
 
 
